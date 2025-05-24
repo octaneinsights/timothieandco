@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+01:55:59	1737/1737	---MCZ	403	error ('Forbidden')	text/html	date:Fri,%2023%20May%202025%2007:55:58%20GMT	https://marscharmss.com/robots.txt		(from )
+01:55:59	4516/4516	---MCZ	403	error ('Forbidden')	text/html	date:Fri,%2023%20May%202025%2007:55:59%20GMT	https://marscharmss.com/	C:/My%20Web%20Sites/TandCoScraper/marscharmss.com/index.html	(from )

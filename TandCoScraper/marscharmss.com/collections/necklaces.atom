@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://marscharmss.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://marscharmss.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://marscharmss.com/collections/necklaces.atom"/>
+  <title>Mars Charms</title>
+  <updated>2025-05-14T12:43:24-06:00</updated>
+  <author>
+    <name>Mars Charms</name>
+  </author>
+  <entry>
+    <id>https://marscharmss.com/products/9940926988605</id>
+    <published>2025-05-14T12:43:24-06:00</published>
+    <updated>2025-05-14T12:43:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/sunset-beaded-necklace"/>
+    <title>Sunset Beaded Necklace</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/IMG-1406.png?v=1747331861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9940926988605</id>
+      <title>16 inches w 3 in Extender</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9940924334397</id>
+    <published>2025-05-14T12:41:53-06:00</published>
+    <updated>2025-05-14T12:41:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/sunrise-beaded-necklace"/>
+    <title>Sunrise Beaded Necklace</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/IMG-1407.png?v=1747331814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9940924334397</id>
+      <title>16 inches w 3 in Extender</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862497763645</id>
+    <published>2025-03-16T20:31:05-06:00</published>
+    <updated>2025-03-16T20:31:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/silver-thick-cable-chain-5-bag-charm"/>
+    <title>Silver Thick Cable Chain 5” Bag Charm</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/842EC3C9-4DDB-4C26-8527-2A600CC3E568.png?v=1742225163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862497763645</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862496747837</id>
+    <published>2025-03-16T20:29:18-06:00</published>
+    <updated>2025-03-16T20:29:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/gold-filled-oval-cable-chain-5-bag-charm"/>
+    <title>Gold Filled Oval Cable Chain 5” Bag Charm</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/94B6C086-2A03-41C9-9DDA-2168B09B6EB8.png?v=1742225140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862496747837</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862496158013</id>
+    <published>2025-03-16T20:28:08-06:00</published>
+    <updated>2025-03-16T20:28:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/gold-filled-cable-chain-5-bag-charm"/>
+    <title>Gold Filled Cable Chain 5” Bag Charm</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/9CA272B2-DBA5-42A4-B2E8-46F980F897FC.png?v=1742225182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862496158013</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862494978365</id>
+    <published>2025-03-16T20:27:41-06:00</published>
+    <updated>2025-03-16T20:27:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/gold-filled-paperclip-chain-11-5-bag-charm"/>
+    <title>Gold Filled Paperclip Chain 11.5” Bag Charm</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/CD9635F3-BD24-4E54-93AC-05AFF40E0CC0.png?v=1742225113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862494978365</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9655077830973</id>
+    <published>2024-09-11T11:04:36-06:00</published>
+    <updated>2024-09-11T11:04:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/maroon-beaded-necklace"/>
+    <title>Maroon Beaded Necklace</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/776D02B7-88C8-4F44-A44E-483CBA72022F.png?v=1726074285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9655077830973</id>
+      <title>16 inches w 2 in Extender</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9553597464893</id>
+    <published>2024-07-08T13:03:09-06:00</published>
+    <updated>2024-07-08T13:03:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/pearl-necklace"/>
+    <title>Pearl Necklace</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/D9E3E231-1556-41EE-9CDF-3E6DFEF6C92B.png?v=1720472846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9553597464893</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9137850024253</id>
+    <published>2024-03-05T16:45:31-07:00</published>
+    <updated>2024-03-05T16:45:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/chunky-cable-chain"/>
+    <title>Chunky Cable Chain (15” w Extender)</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/E78F9EAB-ABFD-40BA-9047-01FF4AAB10A4.png?v=1709689989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9137850024253</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/8945750442301</id>
+    <published>2024-01-23T18:15:04-07:00</published>
+    <updated>2024-01-23T18:15:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/silver-paperclip-chain-necklace"/>
+    <title>Sterling Silver Paperclip Chain Necklace</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/9BAC7DDD-66A2-4B4F-A244-6DAAE8EF2B5B.png?v=1701069243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/8945750442301</id>
+      <title>16 Inches / Sterling Silver</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://marscharmss.com/products/8945750442301</id>
+      <title>18 Inches / Sterling Silver</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/8733559750973</id>
+    <published>2024-01-23T18:14:57-07:00</published>
+    <updated>2024-01-23T18:14:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/sliver-cable-chain-necklace-18"/>
+    <title>Silver Curb Chain Necklace</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/E2F59E43-C4B0-46F0-A480-266F13719687.png?v=1706238184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/8733559750973</id>
+      <title>18 Inch</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://marscharmss.com/products/8733559750973</id>
+      <title>16 Inch</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/8733547659581</id>
+    <published>2023-09-21T22:38:59-06:00</published>
+    <updated>2023-09-21T22:38:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/gold-cable-chain-necklace-16"/>
+    <title>Gold Cable Chain Necklace</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/C5126435-F8B3-4545-BB3E-A33CCB2024B5.png?v=1701068744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/8733547659581</id>
+      <title>16 inches with extender</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://marscharmss.com/products/8733547659581</id>
+      <title>18 Inches with extender</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://marscharmss.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://marscharmss.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://marscharmss.com/collections/bag-charms.atom"/>
+  <title>Mars Charms</title>
+  <updated>2025-05-14T12:50:21-06:00</updated>
+  <author>
+    <name>Mars Charms</name>
+  </author>
+  <entry>
+    <id>https://marscharmss.com/products/9940938359101</id>
+    <published>2025-05-14T12:50:21-06:00</published>
+    <updated>2025-05-14T12:50:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/white-dog-bag-charm"/>
+    <title>Brown Dog Bag Charm</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/FullSizeRender.jpg?v=1747327791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9940938359101</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9940938064189</id>
+    <published>2025-05-14T12:50:05-06:00</published>
+    <updated>2025-05-14T12:50:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/brown-dog-bag-charm"/>
+    <title>White Dog Bag Charm</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/FullSizeRender_6199f622-4ff6-473d-a6af-f465c03f7eda.jpg?v=1747327870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9940938064189</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9940928299325</id>
+    <published>2025-05-14T12:44:01-06:00</published>
+    <updated>2025-05-14T12:44:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/cottage-core-bag-charm"/>
+    <title>Cottage Core Bag Charm</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/FullSizeRender_0fbed7eb-85b0-439f-84f8-06ed3ce1e700.jpg?v=1747327906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9940928299325</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862486688061</id>
+    <published>2025-03-16T20:04:05-06:00</published>
+    <updated>2025-03-16T20:04:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/light-multi-colored-gemstone-loop-bag-charm"/>
+    <title>Light Multi Colored Gemstone Loop Bag Charm</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/DA3D4A7D-3BB2-4598-934E-05E1C1BAA03E.jpg?v=1742177082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862486688061</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862486360381</id>
+    <published>2025-03-16T20:03:03-06:00</published>
+    <updated>2025-03-16T20:03:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/dark-multi-colored-gemstone-loop-bag-charm"/>
+    <title>Dark Multi Colored Gemstone Loop Bag Charm</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/ACD8093B-07A7-4395-844F-17535E1ED683.jpg?v=1742177209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862486360381</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862248497469</id>
+    <published>2025-03-16T09:18:01-06:00</published>
+    <updated>2025-03-16T09:18:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/small-blue-heart-clip"/>
+    <title>Small Blue Heart Clip</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/9BED81B3-E59A-4C29-91B3-FB54D0F44FCB.jpg?v=1742138306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862248497469</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862248235325</id>
+    <published>2025-03-16T09:17:12-06:00</published>
+    <updated>2025-03-16T09:17:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/blue-pink-heart-clip"/>
+    <title>Blue/Yellow Heart Clip</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/8DEA7C5B-E9C1-4937-86FA-4100A579A304.jpg?v=1742138266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862248235325</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862248071485</id>
+    <published>2025-03-16T09:16:46-06:00</published>
+    <updated>2025-03-16T09:16:46-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/orange-pink-heart-clip"/>
+    <title>Orange/Pink Heart Clip</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/F3652E1D-E914-4807-B1D4-3E369E8B603A.jpg?v=1742138224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862248071485</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862247874877</id>
+    <published>2025-03-16T09:15:54-06:00</published>
+    <updated>2025-03-16T09:15:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/yellow-purple-heart-clip"/>
+    <title>Yellow/Purple Heart Clip</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/D8B9C863-15C6-415C-AA9E-15B86E33E545.jpg?v=1742138191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862247874877</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862247711037</id>
+    <published>2025-03-16T09:15:10-06:00</published>
+    <updated>2025-03-16T09:15:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/pink-purple-heart-clip"/>
+    <title>Pink/Purple Heart Clip</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/E64ABC1E-5E99-4E1B-B06F-3B28162EB2D8.jpg?v=1742138128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862247711037</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862247481661</id>
+    <published>2025-03-16T09:14:21-06:00</published>
+    <updated>2025-03-16T09:14:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/pink-blue-heart-clip"/>
+    <title>Pink/Blue Heart Clip</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/953E4E48-B47C-4EEE-AC19-CB7D20447E84.jpg?v=1742138093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862247481661</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862247252285</id>
+    <published>2025-03-16T09:13:32-06:00</published>
+    <updated>2025-03-16T09:13:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/green-blue-heart-clip"/>
+    <title>Turquoise/Yellow Heart Clip</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/FE6CDDA9-717D-4BFC-B582-BEC12F3C3A4A.jpg?v=1742138053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862247252285</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862246924605</id>
+    <published>2025-03-16T09:12:54-06:00</published>
+    <updated>2025-03-16T09:12:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/white-pink-heart-clip"/>
+    <title>White/Pink Heart Clip</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/38B3D4DA-BFBE-4CD5-B550-4DB605198B56.jpg?v=1742138000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862246924605</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862246662461</id>
+    <published>2025-03-16T09:12:26-06:00</published>
+    <updated>2025-03-16T09:12:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/red-yellow-heart-clip"/>
+    <title>Red/Yellow Heart Clip</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/E9454D27-5E8F-4A7C-9CEB-3D46518A2995.jpg?v=1742137965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862246662461</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862245974333</id>
+    <published>2025-03-16T09:11:16-06:00</published>
+    <updated>2025-03-16T09:11:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/black-pink-heart-clip"/>
+    <title>Black/Pink Heart Clip</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/5C44818D-6D81-4665-9DEF-6C482259A29D.jpg?v=1742137933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862245974333</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862239650109</id>
+    <published>2025-03-16T08:54:20-06:00</published>
+    <updated>2025-03-16T08:54:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/silver-beaded-loop-bag-charm"/>
+    <title>Silver Beaded Loop Bag Charm</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/1C519444-6C4B-4E84-ADEC-D97EBCA8A703.jpg?v=1742136881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862239650109</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862239093053</id>
+    <published>2025-03-16T08:52:16-06:00</published>
+    <updated>2025-03-16T08:52:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/green-pink-beaded-loop-bag-charm"/>
+    <title>Green/Pink Beaded Loop Bag Charm</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/E56BA8BB-D977-4301-B1B5-23F912431626.jpg?v=1742136761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862239093053</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9859141796157</id>
+    <published>2025-03-13T15:41:49-06:00</published>
+    <updated>2025-03-13T15:41:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/leather-brown-bow-bag-charm"/>
+    <title>Leather Brown Bow Bag Charm</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/AB1B7E59-CF8D-4332-BEFC-397F6F3E7FD4.jpg?v=1742136398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9859141796157</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9859141730621</id>
+    <published>2025-03-13T15:41:24-06:00</published>
+    <updated>2025-03-13T15:41:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/copy-leather-pink-bow-bag-charm"/>
+    <title>Leather Pink Bow Bag Charm</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/DC5F01A9-ED88-4BFE-AA5E-C79334F68FC4.jpg?v=1742136594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9859141730621</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9859141665085</id>
+    <published>2025-03-13T15:41:01-06:00</published>
+    <updated>2025-03-13T15:41:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/leather-maroon-strap-bag-charm"/>
+    <title>Leather Maroon Strap Bag Charm</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/D6FDCECE-F85D-489F-8E46-10218F253EDC.jpg?v=1742136321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9859141665085</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9859141599549</id>
+    <published>2025-03-13T15:40:40-06:00</published>
+    <updated>2025-03-13T15:40:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/leather-black-strap-bag-charm"/>
+    <title>Leather Black Strap Bag Charm</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/1BBA11FB-C826-45A4-A952-3E64B5718832.jpg?v=1742136560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9859141599549</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9859141402941</id>
+    <published>2025-03-13T15:37:49-06:00</published>
+    <updated>2025-03-13T15:37:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/crochet-cherry-bag-charm"/>
+    <title>Crochet Cherry Bag Charm</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/ECF9D6CD-7693-49CC-8A10-B72D8DB28665.jpg?v=1742136446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9859141402941</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9859141304637</id>
+    <published>2025-03-13T15:37:25-06:00</published>
+    <updated>2025-03-13T15:37:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/light-pink-leather-star-bag-charm"/>
+    <title>Light Pink Leather Star Bag Charm</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/FB8EAF72-E747-47C9-AE2D-5A5197577A83.jpg?v=1742136663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9859141304637</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9859141239101</id>
+    <published>2025-03-13T15:37:10-06:00</published>
+    <updated>2025-03-13T15:37:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/dark-pink-leather-star-bag-charm"/>
+    <title>Dark Pink Leather Star Bag Charm</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/A90051B8-DDDE-4E55-9305-4651A8EA81A9.jpg?v=1742136252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9859141239101</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9859141206333</id>
+    <published>2025-03-13T15:36:52-06:00</published>
+    <updated>2025-03-13T15:36:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/light-purple-leather-star-bag-charm"/>
+    <title>Light Purple Leather Star Bag Charm</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/81F94CB9-DD6B-4608-BB6F-7C1685A8C75A.jpg?v=1742136466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://marscharmss.com/products/9859141206333</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

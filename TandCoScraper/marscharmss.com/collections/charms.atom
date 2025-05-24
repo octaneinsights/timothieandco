@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://marscharmss.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://marscharmss.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://marscharmss.com/collections/charms.atom"/>
+  <title>Mars Charms</title>
+  <updated>2025-05-15T11:07:47-06:00</updated>
+  <author>
+    <name>Mars Charms</name>
+  </author>
+  <entry>
+    <id>https://marscharmss.com/products/9942106014013</id>
+    <published>2025-05-15T11:07:47-06:00</published>
+    <updated>2025-05-15T11:07:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/light-blue-fish"/>
+    <title>Light Blue Fish</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/IMG-1362.png?v=1747328882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9942106014013</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9942105882941</id>
+    <published>2025-05-15T11:07:30-06:00</published>
+    <updated>2025-05-15T11:07:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/light-yellow-fish"/>
+    <title>Light Yellow Fish</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/IMG-1411.png?v=1747334923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9942105882941</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9942105358653</id>
+    <published>2025-05-15T11:05:02-06:00</published>
+    <updated>2025-05-15T11:05:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/red-fish"/>
+    <title>Red Fish</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/IMG-1410.png?v=1747334883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9942105358653</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9942105260349</id>
+    <published>2025-05-15T11:04:22-06:00</published>
+    <updated>2025-05-15T11:04:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/orange-fish"/>
+    <title>Orange Fish</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/69AA43BE-EDE5-47FE-B7D0-CD8B7D23BA70.png?v=1747328672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9942105260349</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9942105096509</id>
+    <published>2025-05-15T11:03:41-06:00</published>
+    <updated>2025-05-15T11:03:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/yellow-fish"/>
+    <title>Yellow Fish</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/IMG-1366.png?v=1747328641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9942105096509</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9942104899901</id>
+    <published>2025-05-15T11:03:07-06:00</published>
+    <updated>2025-05-15T11:03:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/blue-fish"/>
+    <title>Blue Fish</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/IMG-1365.png?v=1747328597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9942104899901</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9942104080701</id>
+    <published>2025-05-15T10:59:12-06:00</published>
+    <updated>2025-05-15T10:59:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/green-fish"/>
+    <title>Green Fish</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/IMG-1364.png?v=1747328379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9942104080701</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9942103327037</id>
+    <published>2025-05-15T10:58:02-06:00</published>
+    <updated>2025-05-15T10:58:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/white-flower-charm"/>
+    <title>White Flower Charm</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/IMG-1412.png?v=1747334989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9942103327037</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9942103261501</id>
+    <published>2025-05-15T10:56:51-06:00</published>
+    <updated>2025-05-15T10:56:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/white-shell-charm"/>
+    <title>White Shell Charm</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/IMG-1360.png?v=1747328227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9942103261501</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9543900037437</id>
+    <published>2025-03-16T19:34:26-06:00</published>
+    <updated>2025-03-16T19:34:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/gold-august-birth-flower"/>
+    <title>Gold August Birth Flower</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/1285290B-EAF2-47F2-8BB9-886056547409.png?v=1720457654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Symbols</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9543900037437</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9543900397885</id>
+    <published>2025-03-16T19:34:00-06:00</published>
+    <updated>2025-03-16T19:34:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/gold-october-birth-flower"/>
+    <title>Gold October Birth Flower</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/C2103B19-7CFA-4B2F-A509-FDE96E5329B4.png?v=1720457615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Symbols</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9543900397885</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9543900201277</id>
+    <published>2025-03-16T19:32:50-06:00</published>
+    <updated>2025-03-16T19:32:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/gold-september-birth-flower"/>
+    <title>Gold September Birth Flower</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/01CFC1EC-14D4-4C7E-9A1E-6FC4137A4111.png?v=1720457633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Symbols</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9543900201277</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862476398909</id>
+    <published>2025-03-16T19:28:07-06:00</published>
+    <updated>2025-03-16T19:28:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/copy-gold-filled-i-love-you-post-card"/>
+    <title>Gold Filled I Love You Post Card</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/EAE374AF-FDA9-4FEF-B635-2AAEE488571F.png?v=1742239161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862476398909</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9091664052541</id>
+    <published>2025-03-16T19:27:08-06:00</published>
+    <updated>2025-03-16T19:27:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/gold-filled-mama"/>
+    <title>Gold Filled Mama</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/471F01DF-A387-4A5A-B4B5-CDFF852D7020.png?v=1742174817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9091664052541</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862257148221</id>
+    <published>2025-03-16T09:37:18-06:00</published>
+    <updated>2025-03-16T09:37:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/gold-filled-bike"/>
+    <title>Gold Filled Bike</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/C813A120-9B17-456C-ABC3-9A3355CAD86A.png?v=1742139504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hobbies</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862257148221</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862256918845</id>
+    <published>2025-03-16T09:36:25-06:00</published>
+    <updated>2025-03-16T09:36:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/gold-filled-small-i-heart-ny"/>
+    <title>Gold Filled Small “I Heart NY”</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/568E2250-6C3D-4067-A6CF-99CED4B3C0D9.png?v=1742139396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862256918845</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862256656701</id>
+    <published>2025-03-16T09:35:33-06:00</published>
+    <updated>2025-03-16T09:35:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/gold-filled-small-paw"/>
+    <title>Gold Filled Small Paw</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/75790150-3F35-4AF8-80C1-75A73E4AD6E4.png?v=1742139343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862256656701</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862256001341</id>
+    <published>2025-03-16T09:34:23-06:00</published>
+    <updated>2025-03-16T09:34:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/gold-filled-turtle"/>
+    <title>Gold Filled Turtle</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/0C296E67-2468-4EC7-8639-28B6D12648E5.png?v=1742139285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862256001341</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862255706429</id>
+    <published>2025-03-16T09:33:21-06:00</published>
+    <updated>2025-03-16T09:33:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/small-gold-graduation-cap"/>
+    <title>Small Gold Graduation Cap</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/CDC43C32-D6FE-4304-8F2D-796CB3610F1E.png?v=1742139228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862255706429</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862255477053</id>
+    <published>2025-03-16T09:32:33-06:00</published>
+    <updated>2025-03-16T09:32:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/gold-filled-tulip-pendant"/>
+    <title>Gold Filled Tulip Pendant</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/70301135-489D-4C36-BC5B-B9B880106786.png?v=1742139170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862255477053</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862254166333</id>
+    <published>2025-03-16T09:29:58-06:00</published>
+    <updated>2025-03-16T09:29:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/lucky-star-pendant"/>
+    <title>Lucky Star Pendant</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/50EF9C84-8312-4B4C-8D5D-EDE2F2CC7949.png?v=1742139126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hearts</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862254166333</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862253576509</id>
+    <published>2025-03-16T09:29:10-06:00</published>
+    <updated>2025-03-16T09:29:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/silver-medium-fish"/>
+    <title>Silver Medium Fish</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/5014E219-7A5B-4CA2-B34E-9A68F7228166.png?v=1742138966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862253576509</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862253248829</id>
+    <published>2025-03-16T09:28:28-06:00</published>
+    <updated>2025-03-16T09:28:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/gold-filled-medium-fish"/>
+    <title>Gold Filled Medium Fish</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/349C9FFB-80CB-45FB-A59B-380096A0B225.png?v=1742138920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Material : Gold Filled</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862253248829</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9862252691773</id>
+    <published>2025-03-16T09:26:54-06:00</published>
+    <updated>2025-03-16T09:26:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/red-gold-large-fish"/>
+    <title>Red/Gold Large Fish</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/D826AE3C-C9D5-4365-B905-0F5BE3968313.png?v=1742138835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Material : Gold Filled</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9862252691773</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://marscharmss.com/products/9652857766205</id>
+    <published>2025-01-17T14:42:29-07:00</published>
+    <updated>2025-01-17T14:42:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://marscharmss.com/products/gold-filled-white-mom-pendant"/>
+    <title>Gold Filled White Mom Pendant</title>
+    <s:type></s:type>
+    <s:vendor>Mars Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0821/7814/6621/files/04C8EF0B-6E0A-4B3E-8EFA-2C88EF498987.png?v=1725983725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Charms<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Material: Gold Filled</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Miscellaneous</s:tag>
+    <s:variant>
+      <id>https://marscharmss.com/products/9652857766205</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

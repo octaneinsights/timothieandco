@@ -1,0 +1,1293 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 23 May 2025 01:57:40 at https://marscharmss.com/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+(winhttrack -qiC2%Pns2u1%s%uN0%I0p7DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "en, *" https://marscharmss.com/ -O1 "C:\My Web Sites\TandCoScraper" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:57:46	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://shop.app/checkouts/internal/preloads.js?locale=en-US&shop_id=82178146621
+01:58:35	Error: 	"Forbidden" (403) at link https://fonts.shopifycdn.com/ (from https://marscharmss.com/)
+01:58:35	Error: 	"Forbidden" (403) at link https://shop.app/ (from https://marscharmss.com/)
+01:58:35	Error: 	"Not Found" (404) at link https://monorail-edge.shopifysvc.com/ (from https://marscharmss.com/)
+01:58:35	Error: 	"Not Found" (404) at link https://marscharmss.com/POST (from https://marscharmss.com/)
+01:58:35	Error: 	"Error when decompressing" (-1) at link https://marscharmss.com/cdn (from https://marscharmss.com/)
+02:19:26	Error: 	"Not Found" (404) at link https://marscharmss.com/products/POST (from https://marscharmss.com/products/custom-jewellery)
+02:19:26	Error: 	"Not Found" (404) at link https://marscharmss.com/products/Trident/ (from https://marscharmss.com/products/custom-jewellery)
+02:19:26	Error: 	"Not Found" (404) at link https://marscharmss.com/collections/POST (from https://marscharmss.com/collections/necklaces-1)
+02:25:55	Error: 	"Not Found" (404) at link https://marscharmss.com/pages/POST (from https://marscharmss.com/pages/faq)
+02:26:38	Error: 	"Not Found" (404) at link https://marscharmss.com/policies/POST (from https://marscharmss.com/policies/refund-policy)
+03:43:22	Error: 	"Not Found" (404) at link https://marscharmss.com/modules/v2/client.shop-login-button_tQyWXqsV.en.esm.js (from https://marscharmss.com/)
+03:43:22	Error: 	"Not Found" (404) at link https://marscharmss.com/modules/v2/chunk.common_DX4hvK5k.esm.js (from https://marscharmss.com/)
+03:43:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=NWQ1ZjZlLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWFyc2NoYXJtc3MuY29t&hmac=02131776dc86a811491f97c8b44670b0bea2a333aa0ac32c108d1f1a56b095ca
+03:43:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=NWQ1ZjZlLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWFyc2NoYXJtc3MuY29t&hmac=9970932170a9795ca2277f91ed7096c0e0bbbc7346166adf4bd2f3fa1b72fa10
+03:43:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/cdn/fonts/assistant/assistant_n7.3335c7bdaddf2501ddab87cdbd9be98f3870e10d.woff2?h1=NWQ1ZjZlLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWFyc2NoYXJtc3MuY29t&hmac=d6cf97656227f6e2024d67559db291cb068134e40ad1209c744ac4f0392a6958
+03:44:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/custom-jewellery.oembed
+03:44:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://shopoe.net/app.js
+03:44:39	Warning: 	HTML file (562137 bytes) retransferred due to lack of cache: https://marscharmss.com/products/custom-jewellery
+03:47:38	Warning: 	HTML file (212212 bytes) retransferred due to lack of cache: https://marscharmss.com/products/cottage-core-bag-charm
+03:49:18	Error: 	"Not Found" (404) at link https://marscharmss.com/products/modules/v2/client.shop-login-button_tQyWXqsV.en.esm.js (from https://marscharmss.com/products/custom-jewellery)
+03:49:19	Error: 	"Not Found" (404) at link https://marscharmss.com/products/modules/v2/chunk.common_DX4hvK5k.esm.js (from https://marscharmss.com/products/custom-jewellery)
+03:49:48	Warning: 	HTML file (183692 bytes) retransferred due to lack of cache: https://marscharmss.com/products/Trident/
+03:49:58	Error: 	"Not Found" (404) at link https://marscharmss.com/products/Trident/ (from https://marscharmss.com/products/custom-jewellery)
+03:50:00	Error: 	"Not Found" (404) at link https://marscharmss.com/collections/modules/v2/client.shop-login-button_tQyWXqsV.en.esm.js (from https://marscharmss.com/collections/necklaces-1)
+03:50:02	Error: 	"Not Found" (404) at link https://marscharmss.com/collections/modules/v2/chunk.common_DX4hvK5k.esm.js (from https://marscharmss.com/collections/necklaces-1)
+03:50:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/collections/necklaces.atom
+03:50:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/collections/necklaces.oembed
+03:50:51	Warning: 	HTML file (215478 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-bubble-heart-necklace
+03:51:11	Warning: 	HTML file (215078 bytes) retransferred due to lack of cache: https://marscharmss.com/products/bow-chain-necklace
+03:51:24	Warning: 	HTML file (215292 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-dainty-heart-bracelet
+03:51:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/custom-slider-necklace.oembed
+03:51:38	Warning: 	HTML file (216573 bytes) retransferred due to lack of cache: https://marscharmss.com/products/sunset-beaded-necklace
+03:51:50	Warning: 	HTML file (216502 bytes) retransferred due to lack of cache: https://marscharmss.com/products/sunrise-beaded-necklace
+03:52:04	Warning: 	HTML file (214965 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-thick-cable-chain-5-bag-charm
+03:52:26	Warning: 	HTML file (215105 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-oval-cable-chain-5-bag-charm
+03:52:39	Warning: 	HTML file (214930 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-cable-chain-5-bag-charm
+03:52:58	Warning: 	HTML file (215175 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-paperclip-chain-11-5-bag-charm
+03:53:18	Warning: 	HTML file (217052 bytes) retransferred due to lack of cache: https://marscharmss.com/products/maroon-beaded-necklace
+03:53:35	Warning: 	HTML file (214207 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pearl-necklace
+03:53:51	Warning: 	HTML file (214548 bytes) retransferred due to lack of cache: https://marscharmss.com/products/chunky-cable-chain
+03:54:13	Warning: 	HTML file (220362 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-paperclip-chain-necklace
+03:54:28	Warning: 	HTML file (218541 bytes) retransferred due to lack of cache: https://marscharmss.com/products/sliver-cable-chain-necklace-18
+03:54:43	Warning: 	HTML file (218857 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-cable-chain-necklace-16
+03:55:04	Warning: 	HTML file (305093 bytes) retransferred due to lack of cache: https://marscharmss.com/collections/bag-charms?page=2
+03:55:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/collections/bag-charms.oembed
+03:55:18	Warning: 	HTML file (213929 bytes) retransferred due to lack of cache: https://marscharmss.com/products/white-dog-bag-charm
+03:55:35	Warning: 	HTML file (214741 bytes) retransferred due to lack of cache: https://marscharmss.com/products/brown-dog-bag-charm
+03:55:55	Warning: 	HTML file (215837 bytes) retransferred due to lack of cache: https://marscharmss.com/products/light-multi-colored-gemstone-loop-bag-charm
+03:56:10	Warning: 	HTML file (215802 bytes) retransferred due to lack of cache: https://marscharmss.com/products/dark-multi-colored-gemstone-loop-bag-charm
+03:56:23	Warning: 	HTML file (214973 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-blue-heart-clip
+03:56:46	Warning: 	HTML file (214974 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-pink-heart-clip
+03:56:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/collections/charms.atom
+03:56:59	Warning: 	HTML file (215012 bytes) retransferred due to lack of cache: https://marscharmss.com/products/orange-pink-heart-clip
+03:56:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/collections/charms.oembed
+03:57:13	Warning: 	HTML file (215082 bytes) retransferred due to lack of cache: https://marscharmss.com/products/yellow-purple-heart-clip
+03:57:26	Warning: 	HTML file (215106 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-purple-heart-clip
+03:57:47	Warning: 	HTML file (215036 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-blue-heart-clip
+03:58:04	Warning: 	HTML file (215167 bytes) retransferred due to lack of cache: https://marscharmss.com/products/green-blue-heart-clip
+03:58:22	Warning: 	HTML file (215071 bytes) retransferred due to lack of cache: https://marscharmss.com/products/white-pink-heart-clip
+03:58:34	Warning: 	HTML file (214977 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-yellow-heart-clip
+03:58:48	Warning: 	HTML file (215071 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-pink-heart-clip
+03:58:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/cottage-core-bag-charm.oembed
+03:59:00	Warning: 	HTML file (215312 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-beaded-loop-bag-charm
+03:59:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-bubble-heart-necklace.oembed
+03:59:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/bow-chain-necklace.oembed
+03:59:32	Warning: 	HTML file (302446 bytes) retransferred due to lack of cache: https://marscharmss.com/collections/charms?page=2
+03:59:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-dainty-heart-bracelet.oembed
+03:59:45	Warning: 	HTML file (213645 bytes) retransferred due to lack of cache: https://marscharmss.com/products/light-blue-fish
+03:59:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/sunset-beaded-necklace.oembed
+03:59:59	Warning: 	HTML file (213715 bytes) retransferred due to lack of cache: https://marscharmss.com/products/light-yellow-fish
+04:00:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/sunrise-beaded-necklace.oembed
+04:00:12	Warning: 	HTML file (213306 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-fish
+04:00:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-thick-cable-chain-5-bag-charm.oembed
+04:00:24	Warning: 	HTML file (213999 bytes) retransferred due to lack of cache: https://marscharmss.com/products/orange-fish
+04:00:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-oval-cable-chain-5-bag-charm.oembed
+04:00:34	Warning: 	HTML file (213505 bytes) retransferred due to lack of cache: https://marscharmss.com/products/yellow-fish
+04:00:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-cable-chain-5-bag-charm.oembed
+04:00:47	Warning: 	HTML file (213435 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-fish
+04:00:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-paperclip-chain-11-5-bag-charm.oembed
+04:01:01	Warning: 	HTML file (213376 bytes) retransferred due to lack of cache: https://marscharmss.com/products/green-fish
+04:01:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/maroon-beaded-necklace.oembed
+04:01:15	Warning: 	HTML file (213656 bytes) retransferred due to lack of cache: https://marscharmss.com/products/white-flower-charm
+04:01:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pearl-necklace.oembed
+04:01:29	Warning: 	HTML file (213621 bytes) retransferred due to lack of cache: https://marscharmss.com/products/white-shell-charm
+04:01:41	Warning: 	HTML file (214829 bytes) retransferred due to lack of cache: https://marscharmss.com/products/copy-gold-filled-i-love-you-post-card
+04:01:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/chunky-cable-chain.oembed
+04:01:57	Warning: 	HTML file (214174 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-bike
+04:02:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-paperclip-chain-necklace.oembed
+04:02:13	Warning: 	HTML file (214690 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-small-i-heart-ny
+04:02:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/sliver-cable-chain-necklace-18.oembed
+04:02:33	Warning: 	HTML file (214349 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-small-paw
+04:02:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-cable-chain-necklace-16.oembed
+04:02:46	Warning: 	HTML file (214244 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-turtle
+04:02:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/collections/bag-charms.oembed?page=2
+04:03:01	Warning: 	HTML file (214489 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-graduation-cap
+04:03:17	Warning: 	HTML file (214489 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-tulip-pendant
+04:03:36	Error: 	"Not Found" (404) at link https://marscharmss.com/pages/modules/v2/client.shop-login-button_tQyWXqsV.en.esm.js (from https://marscharmss.com/pages/faq)
+04:03:46	Error: 	"Not Found" (404) at link https://marscharmss.com/pages/modules/v2/chunk.common_DX4hvK5k.esm.js (from https://marscharmss.com/pages/faq)
+04:04:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/white-dog-bag-charm.oembed
+04:04:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/brown-dog-bag-charm.oembed
+04:04:41	Warning: 	HTML file (300769 bytes) retransferred due to lack of cache: https://marscharmss.com/collections/all
+04:04:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/light-multi-colored-gemstone-loop-bag-charm.oembed
+04:05:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/dark-multi-colored-gemstone-loop-bag-charm.oembed
+04:05:22	Error: 	"Not Found" (404) at link https://marscharmss.com/policies/modules/v2/client.shop-login-button_tQyWXqsV.en.esm.js (from https://marscharmss.com/policies/refund-policy)
+04:05:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-blue-heart-clip.oembed
+04:05:24	Error: 	"Not Found" (404) at link https://marscharmss.com/policies/modules/v2/chunk.common_DX4hvK5k.esm.js (from https://marscharmss.com/policies/refund-policy)
+04:05:34	Warning: 	HTML file (305934 bytes) retransferred due to lack of cache: https://marscharmss.com/collections/bag-charms?page=1
+04:05:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/blue-pink-heart-clip.oembed
+04:05:46	Warning: 	HTML file (215456 bytes) retransferred due to lack of cache: https://marscharmss.com/products/green-pink-beaded-loop-bag-charm
+04:05:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/orange-pink-heart-clip.oembed
+04:06:05	Warning: 	HTML file (220199 bytes) retransferred due to lack of cache: https://marscharmss.com/products/leather-brown-bow-bag-charm
+04:06:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/yellow-purple-heart-clip.oembed
+04:06:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pink-purple-heart-clip.oembed
+04:06:19	Warning: 	HTML file (215337 bytes) retransferred due to lack of cache: https://marscharmss.com/products/copy-leather-pink-bow-bag-charm
+04:06:32	Warning: 	HTML file (215288 bytes) retransferred due to lack of cache: https://marscharmss.com/products/leather-maroon-strap-bag-charm
+04:06:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pink-blue-heart-clip.oembed
+04:06:44	Warning: 	HTML file (215253 bytes) retransferred due to lack of cache: https://marscharmss.com/products/leather-black-strap-bag-charm
+04:06:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/green-blue-heart-clip.oembed
+04:06:55	Warning: 	HTML file (219997 bytes) retransferred due to lack of cache: https://marscharmss.com/products/crochet-cherry-bag-charm
+04:07:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/white-pink-heart-clip.oembed
+04:07:07	Warning: 	HTML file (215393 bytes) retransferred due to lack of cache: https://marscharmss.com/products/light-pink-leather-star-bag-charm
+04:07:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/red-yellow-heart-clip.oembed
+04:07:20	Warning: 	HTML file (215358 bytes) retransferred due to lack of cache: https://marscharmss.com/products/dark-pink-leather-star-bag-charm
+04:07:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/black-pink-heart-clip.oembed
+04:07:33	Warning: 	HTML file (215471 bytes) retransferred due to lack of cache: https://marscharmss.com/products/light-purple-leather-star-bag-charm
+04:07:46	Warning: 	HTML file (215191 bytes) retransferred due to lack of cache: https://marscharmss.com/products/grey-leather-star-bag-charm
+04:07:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-beaded-loop-bag-charm.oembed
+04:08:00	Warning: 	HTML file (215218 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-leather-heart-bag-charm
+04:08:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/collections/bag-charms.oembed?page=3
+04:08:16	Warning: 	HTML file (215253 bytes) retransferred due to lack of cache: https://marscharmss.com/products/white-leather-heart-bag-charm
+04:08:32	Warning: 	HTML file (215253 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-leather-heart-bag-charm
+04:08:49	Warning: 	HTML file (215183 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-leather-heart-bag-charm
+04:09:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/collections/charms.oembed?page=2
+04:09:04	Warning: 	HTML file (214903 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-rope-bag-charm
+04:09:18	Warning: 	HTML file (214942 bytes) retransferred due to lack of cache: https://marscharmss.com/products/green-rope-bag-charm
+04:09:38	Warning: 	HTML file (214973 bytes) retransferred due to lack of cache: https://marscharmss.com/products/maroon-rope-bag-charm
+04:09:51	Warning: 	HTML file (215119 bytes) retransferred due to lack of cache: https://marscharmss.com/products/dark-green-rope-bag-charm
+04:10:16	Warning: 	HTML file (214938 bytes) retransferred due to lack of cache: https://marscharmss.com/products/brown-rope-bag-charm
+04:10:29	Warning: 	HTML file (215148 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-rope-loop-bag-charm
+04:10:51	Warning: 	HTML file (215292 bytes) retransferred due to lack of cache: https://marscharmss.com/products/green-pink-rope-loop-bag-charm
+04:11:06	Warning: 	HTML file (215158 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-silver-bow-bag-charm
+04:11:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/light-blue-fish.oembed
+04:11:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/light-yellow-fish.oembed
+04:11:27	Warning: 	HTML file (215228 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-silver-bow-bag-charm
+04:11:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/red-fish.oembed
+04:11:41	Warning: 	HTML file (215003 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-silver-bow
+04:11:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/orange-fish.oembed
+04:11:56	Warning: 	HTML file (214244 bytes) retransferred due to lack of cache: https://marscharmss.com/products/lucky-star-pendant
+04:11:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/yellow-fish.oembed
+04:12:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/blue-fish.oembed
+04:12:10	Warning: 	HTML file (214244 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-medium-fish
+04:12:21	Warning: 	HTML file (214064 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-medium-fish
+04:12:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/green-fish.oembed
+04:12:37	Warning: 	HTML file (213938 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-gold-large-fish
+04:12:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/white-flower-charm.oembed
+04:12:51	Warning: 	HTML file (214569 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-love-you-letter
+04:12:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/white-shell-charm.oembed
+04:13:10	Warning: 	HTML file (214184 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-heart-key
+04:13:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/copy-gold-filled-i-love-you-post-card.oembed
+04:13:24	Warning: 	HTML file (214453 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-heart-key
+04:13:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-bike.oembed
+04:13:39	Warning: 	HTML file (214349 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-golf-flag
+04:13:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-small-i-heart-ny.oembed
+04:13:54	Warning: 	HTML file (214713 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-black-blue-football
+04:13:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-small-paw.oembed
+04:14:09	Warning: 	HTML file (214674 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-red-gold-filled-heart-lock
+04:14:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-turtle.oembed
+04:14:22	Warning: 	HTML file (214769 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-pink-gold-filled-heart-lock
+04:14:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-graduation-cap.oembed
+04:14:39	Warning: 	HTML file (214279 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-pink-strawberry
+04:14:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-tulip-pendant.oembed
+04:14:54	Warning: 	HTML file (214454 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-ace-of-clubs
+04:15:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/collections/charms.oembed?page=3
+04:15:08	Warning: 	HTML file (214489 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-ace-of-hearts
+04:15:28	Warning: 	HTML file (214075 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-black-heart-charm
+04:15:44	Warning: 	HTML file (213774 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-white-angel
+04:16:01	Warning: 	HTML file (214019 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-mini-skull
+04:16:17	Warning: 	HTML file (213879 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-spider
+04:16:39	Warning: 	HTML file (213964 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-bat
+04:16:52	Warning: 	HTML file (213679 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-ghost
+04:16:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/collections/charms.oembed?page=42
+04:17:09	Warning: 	HTML file (213975 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-texas-outline
+04:17:31	Warning: 	HTML file (214909 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-lightning-bolt-charm
+04:17:46	Warning: 	HTML file (214103 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-black-helmet
+04:18:05	Warning: 	HTML file (214243 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-gold-filled-kitchen-aide
+04:18:22	Warning: 	HTML file (213900 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-blue-shell
+04:18:35	Warning: 	HTML file (214033 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-pink-shell
+04:18:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/collections/all.atom
+04:18:55	Warning: 	HTML file (214068 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-soccer-ball
+04:19:09	Warning: 	HTML file (214273 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-white-mom-pendant
+04:19:21	Warning: 	HTML file (213753 bytes) retransferred due to lack of cache: https://marscharmss.com/products/resin-raspberry
+04:19:41	Warning: 	HTML file (213648 bytes) retransferred due to lack of cache: https://marscharmss.com/products/resin-orange
+04:19:53	Warning: 	HTML file (213813 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-taxi
+04:20:13	Warning: 	HTML file (214163 bytes) retransferred due to lack of cache: https://marscharmss.com/products/medium-black-radiant-heart
+04:20:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/green-pink-beaded-loop-bag-charm.oembed
+04:20:25	Warning: 	HTML file (224062 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-red-heart
+04:20:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/leather-brown-bow-bag-charm.oembed
+04:20:38	Warning: 	HTML file (223229 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pearl
+04:20:58	Warning: 	HTML file (219117 bytes) retransferred due to lack of cache: https://marscharmss.com/products/colored-strawberry
+04:21:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/copy-leather-pink-bow-bag-charm.oembed
+04:21:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/leather-maroon-strap-bag-charm.oembed
+04:21:12	Warning: 	HTML file (224193 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-bike
+04:21:28	Warning: 	HTML file (224159 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-hot-air-balloon
+04:21:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/leather-black-strap-bag-charm.oembed
+04:21:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/crochet-cherry-bag-charm.oembed
+04:21:41	Warning: 	HTML file (223920 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-sunglasses
+04:21:53	Warning: 	HTML file (218369 bytes) retransferred due to lack of cache: https://marscharmss.com/products/avacado
+04:22:06	Warning: 	HTML file (223954 bytes) retransferred due to lack of cache: https://marscharmss.com/products/balloon-dog
+04:22:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/light-pink-leather-star-bag-charm.oembed
+04:22:18	Warning: 	HTML file (223605 bytes) retransferred due to lack of cache: https://marscharmss.com/products/yellow-mario-box
+04:22:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/dark-pink-leather-star-bag-charm.oembed
+04:22:30	Warning: 	HTML file (218353 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-chili
+04:22:42	Warning: 	HTML file (219378 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-cowboy-hat
+04:22:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/light-purple-leather-star-bag-charm.oembed
+04:22:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/grey-leather-star-bag-charm.oembed
+04:22:55	Warning: 	HTML file (223673 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-microphoe
+04:23:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pink-leather-heart-bag-charm.oembed
+04:23:08	Warning: 	HTML file (223534 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-guitar
+04:23:25	Warning: 	HTML file (213136 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pearl-shell
+04:23:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/white-leather-heart-bag-charm.oembed
+04:23:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/black-leather-heart-bag-charm.oembed
+04:23:38	Warning: 	HTML file (302110 bytes) retransferred due to lack of cache: https://marscharmss.com/collections/all?page=2
+04:23:52	Warning: 	HTML file (214266 bytes) retransferred due to lack of cache: https://marscharmss.com/products/ace-of-dimonds-playing-card
+04:23:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/red-leather-heart-bag-charm.oembed
+04:24:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pink-rope-bag-charm.oembed
+04:24:06	Warning: 	HTML file (214247 bytes) retransferred due to lack of cache: https://marscharmss.com/products/ace-of-hearts-playing-card
+04:24:20	Warning: 	HTML file (214162 bytes) retransferred due to lack of cache: https://marscharmss.com/products/ace-of-spade-playing-card
+04:24:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/green-rope-bag-charm.oembed
+04:24:33	Warning: 	HTML file (214384 bytes) retransferred due to lack of cache: https://marscharmss.com/products/april-birthstone-charm
+04:24:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/maroon-rope-bag-charm.oembed
+04:24:46	Warning: 	HTML file (214438 bytes) retransferred due to lack of cache: https://marscharmss.com/products/august-birthstone-charme
+04:24:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/dark-green-rope-bag-charm.oembed
+04:25:02	Warning: 	HTML file (213184 bytes) retransferred due to lack of cache: https://marscharmss.com/products/banana
+04:25:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/brown-rope-bag-charm.oembed
+04:25:15	Warning: 	HTML file (214244 bytes) retransferred due to lack of cache: https://marscharmss.com/products/be-free-bottle-cap
+04:25:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-rope-loop-bag-charm.oembed
+04:25:29	Warning: 	HTML file (214079 bytes) retransferred due to lack of cache: https://marscharmss.com/products/beaded-cherry
+04:25:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/green-pink-rope-loop-bag-charm.oembed
+04:25:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/red-silver-bow-bag-charm.oembed
+04:25:43	Warning: 	HTML file (213928 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-black-bow-charm
+04:25:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/black-silver-bow-bag-charm.oembed
+04:26:04	Warning: 	HTML file (214489 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-black-capricorn-charm
+04:26:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pink-silver-bow.oembed
+04:26:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/lucky-star-pendant.oembed
+04:26:16	Warning: 	HTML file (214559 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-black-sagittarius-charm
+04:26:29	Warning: 	HTML file (213950 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-blue-purple-charm
+04:26:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-medium-fish.oembed
+04:26:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-medium-fish.oembed
+04:26:42	Warning: 	HTML file (213744 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-blue-flower
+04:26:54	Warning: 	HTML file (214524 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-blue-sagittarius-charm
+04:26:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/red-gold-large-fish.oembed
+04:27:10	Warning: 	HTML file (214128 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-soccer-jersey
+04:27:27	Warning: 	HTML file (213981 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-football-1
+04:27:45	Warning: 	HTML file (213371 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-mountain
+04:28:00	Warning: 	HTML file (213559 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-crab
+04:28:17	Warning: 	HTML file (214231 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-blue-starfish
+04:28:32	Warning: 	HTML file (213979 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-red-chili
+04:28:45	Warning: 	HTML file (215199 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-turquoise-opal-bezel-oval-pendant
+04:28:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-mini-skull.oembed
+04:28:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-spider.oembed
+04:28:58	Warning: 	HTML file (214219 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-apple
+04:29:12	Warning: 	HTML file (214499 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-and-yellow-butterfly
+04:29:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-bat.oembed
+04:29:27	Warning: 	HTML file (214320 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-textured-z-heart
+04:29:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-ghost.oembed
+04:29:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-texas-outline.oembed
+04:29:41	Warning: 	HTML file (214320 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-textured-y-heart
+04:29:53	Warning: 	HTML file (214320 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-textured-x-heart
+04:30:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/mini-gold-filled-lightning-bolt-charm.oembed
+04:30:07	Warning: 	HTML file (214320 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-textured-w-heart
+04:30:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-black-helmet.oembed
+04:30:21	Warning: 	HTML file (214358 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-textured-v-heart-1
+04:30:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/big-gold-filled-kitchen-aide.oembed
+04:30:36	Warning: 	HTML file (214320 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-textured-v-heart
+04:30:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-blue-shell.oembed
+04:30:48	Warning: 	HTML file (214320 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-textured-t-heart
+04:31:02	Warning: 	HTML file (214320 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-textured-s-heart
+04:31:15	Warning: 	HTML file (214320 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-textured-q-heart
+04:31:30	Warning: 	HTML file (214320 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-textured-p-heart
+04:31:43	Warning: 	HTML file (214320 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-textured-o-heart
+04:31:55	Warning: 	HTML file (214320 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-textured-n-heart
+04:32:10	Warning: 	HTML file (214320 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-textured-l-heart
+04:32:22	Warning: 	HTML file (214320 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-textured-i-heart
+04:32:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/collections/charms.oembed?page=41
+04:32:36	Warning: 	HTML file (214320 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-textured-g-heart
+04:32:54	Warning: 	HTML file (214320 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-textured-f-heart
+04:33:08	Warning: 	HTML file (214349 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-puff-heart-charm
+04:33:27	Warning: 	HTML file (214524 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-november-birth-flower
+04:33:41	Warning: 	HTML file (214489 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-october-birth-flower
+04:33:54	Warning: 	HTML file (214559 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-september-birth-flower
+04:34:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-red-heart.oembed
+04:34:16	Warning: 	HTML file (214011 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-mushroom
+04:34:28	Warning: 	HTML file (213860 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-bull-charm
+04:34:40	Warning: 	HTML file (214314 bytes) retransferred due to lack of cache: https://marscharmss.com/products/thin-bowknot-charm
+04:34:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pearl.oembed
+04:34:59	Warning: 	HTML file (213919 bytes) retransferred due to lack of cache: https://marscharmss.com/products/yoga-pose
+04:35:11	Warning: 	HTML file (214164 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-heart-eye
+04:35:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/colored-strawberry.oembed
+04:35:25	Warning: 	HTML file (213640 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-cube
+04:35:53	Warning: 	HTML file (223946 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-hand-bag-charm
+04:35:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-bike.oembed
+04:36:17	Warning: 	HTML file (223734 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-music-note
+04:36:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-hot-air-balloon.oembed
+04:36:39	Warning: 	HTML file (223669 bytes) retransferred due to lack of cache: https://marscharmss.com/products/teddy-bear-charm
+04:37:00	Warning: 	HTML file (223616 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-red-strawberry
+04:37:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-sunglasses.oembed
+04:37:12	Warning: 	HTML file (223831 bytes) retransferred due to lack of cache: https://marscharmss.com/products/cowboy-boot
+04:37:33	Warning: 	HTML file (219835 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-strawberry
+04:37:46	Warning: 	HTML file (223852 bytes) retransferred due to lack of cache: https://marscharmss.com/products/cell-phone
+04:37:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/avacado.oembed
+04:37:58	Warning: 	HTML file (224082 bytes) retransferred due to lack of cache: https://marscharmss.com/products/skeleton
+04:38:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/balloon-dog.oembed
+04:38:13	Warning: 	HTML file (213999 bytes) retransferred due to lack of cache: https://marscharmss.com/products/chocolate
+04:38:32	Warning: 	HTML file (214154 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-b
+04:38:43	Warning: 	HTML file (214048 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-daisy-pearl-charm
+04:39:01	Warning: 	HTML file (213991 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-guitar-charm
+04:39:15	Warning: 	HTML file (213946 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-silver-glasses
+04:39:34	Warning: 	HTML file (214444 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-3d-airplane-charm
+04:39:47	Warning: 	HTML file (214035 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-red-heart-charm
+04:40:08	Warning: 	HTML file (213946 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-cupid-charm-1
+04:40:32	Warning: 	HTML file (214196 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-cupid-charm
+04:40:54	Warning: 	HTML file (214619 bytes) retransferred due to lack of cache: https://marscharmss.com/products/imprinted-gold-starfish-charm
+04:41:22	Warning: 	HTML file (214278 bytes) retransferred due to lack of cache: https://marscharmss.com/products/flat-ribbed-gold-heart
+04:41:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/ace-of-dimonds-playing-card.oembed
+04:41:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/ace-of-hearts-playing-card.oembed
+04:41:36	Warning: 	HTML file (214234 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-apple-charm
+04:41:47	Warning: 	HTML file (214444 bytes) retransferred due to lack of cache: https://marscharmss.com/products/thin-textured-gold-heart
+04:41:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/ace-of-spade-playing-card.oembed
+04:42:06	Warning: 	HTML file (214365 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-eiffel-tower
+04:42:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/april-birthstone-charm.oembed
+04:42:18	Warning: 	HTML file (214055 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-cherry-charm
+04:42:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/august-birthstone-charme.oembed
+04:42:31	Warning: 	HTML file (214339 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-lock-heart-charm
+04:42:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/banana.oembed
+04:42:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/be-free-bottle-cap.oembed
+04:42:43	Warning: 	HTML file (214444 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-rollerblade-charm
+04:42:57	Warning: 	HTML file (213779 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-green-flower
+04:43:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/beaded-cherry.oembed
+04:43:11	Warning: 	HTML file (214200 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-pink-and-gold-ballerina
+04:43:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/big-black-bow-charm.oembed
+04:43:25	Warning: 	HTML file (213977 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-pink-bow-charm
+04:43:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/big-black-capricorn-charm.oembed
+04:43:39	Warning: 	HTML file (214359 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-pink-cherry-charm
+04:43:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/big-black-sagittarius-charm.oembed
+04:43:52	Warning: 	HTML file (213744 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-pink-strawberry-charm
+04:43:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/big-blue-purple-charm.oembed
+04:44:07	Warning: 	HTML file (213925 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-blue-bow-charm
+04:44:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/big-blue-flower.oembed
+04:44:21	Warning: 	HTML file (213814 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-purple-flower
+04:44:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/big-blue-sagittarius-charm.oembed
+04:44:33	Warning: 	HTML file (214168 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-red-capricorn-charm
+04:44:46	Warning: 	HTML file (214235 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-white-and-gold-ballerina
+04:45:00	Warning: 	HTML file (213928 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-white-bow-charm
+04:45:14	Warning: 	HTML file (213814 bytes) retransferred due to lack of cache: https://marscharmss.com/products/big-yellow-flower
+04:45:28	Warning: 	HTML file (214265 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-daisy-pearl-charm-copy
+04:45:41	Warning: 	HTML file (214069 bytes) retransferred due to lack of cache: https://marscharmss.com/products/birthday-cake
+04:45:56	Warning: 	HTML file (214025 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-checkered-heart
+04:46:08	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-cricle-0-charm
+04:46:22	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-cricle-1-charm
+04:46:35	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-cricle-2-charm
+04:46:50	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-cricle-3-charm
+04:46:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-soccer-jersey.oembed
+04:47:01	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-cricle-4-charm
+04:47:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-football-1.oembed
+04:47:18	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-cricle-5-charm
+04:47:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-mountain.oembed
+04:47:32	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-cricle-6-charm
+04:47:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-crab.oembed
+04:47:46	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-cricle-7-charm
+04:47:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-blue-starfish.oembed
+04:47:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-red-chili.oembed
+04:47:59	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-cricle-8-charm
+04:48:12	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-cricle-9-charm
+04:48:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-turquoise-opal-bezel-oval-pendant.oembed
+04:48:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-apple.oembed
+04:48:26	Warning: 	HTML file (213625 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-spade
+04:48:39	Warning: 	HTML file (214314 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-star-eye-charm
+04:48:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/blue-and-yellow-butterfly.oembed
+04:48:51	Warning: 	HTML file (214156 bytes) retransferred due to lack of cache: https://marscharmss.com/products/white-gold-filled-flower
+04:48:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-textured-z-heart.oembed
+04:49:07	Warning: 	HTML file (214374 bytes) retransferred due to lack of cache: https://marscharmss.com/products/white-puff-heart-charm
+04:49:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-textured-y-heart.oembed
+04:49:22	Warning: 	HTML file (214304 bytes) retransferred due to lack of cache: https://marscharmss.com/products/white-star-eye-charm
+04:49:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-textured-x-heart.oembed
+04:49:36	Warning: 	HTML file (214013 bytes) retransferred due to lack of cache: https://marscharmss.com/products/yellow-checkered-heart
+04:49:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-textured-w-heart.oembed
+04:49:49	Warning: 	HTML file (214095 bytes) retransferred due to lack of cache: https://marscharmss.com/products/yellow-daisy-bead-charm
+04:49:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-textured-v-heart-1.oembed
+04:50:05	Warning: 	HTML file (214145 bytes) retransferred due to lack of cache: https://marscharmss.com/products/__customized-items
+04:50:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-textured-v-heart.oembed
+04:50:19	Warning: 	HTML file (214454 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-august-birth-flower
+04:50:34	Warning: 	HTML file (214384 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-july-birth-flower
+04:50:52	Warning: 	HTML file (214384 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-june-birth-flower
+04:51:05	Warning: 	HTML file (214349 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-may-birth-flower
+04:51:22	Warning: 	HTML file (214419 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-march-birth-flower
+04:51:37	Warning: 	HTML file (214524 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-february-birth-flower
+04:51:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-textured-t-heart.oembed
+04:51:52	Warning: 	HTML file (214479 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-january-birth-flower
+04:52:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-textured-s-heart.oembed
+04:52:06	Warning: 	HTML file (214269 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-triumphal-arch
+04:52:16	Warning: 	HTML file (214179 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-big-gold-filled-boat
+04:52:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-textured-q-heart.oembed
+04:52:30	Warning: 	HTML file (213937 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-candy-piece
+04:52:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-textured-p-heart.oembed
+04:52:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-textured-o-heart.oembed
+04:52:44	Warning: 	HTML file (214524 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-green-mushroom
+04:53:00	Warning: 	HTML file (214234 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-passport
+04:53:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-textured-n-heart.oembed
+04:53:13	Warning: 	HTML file (213974 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-sun
+04:53:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-textured-l-heart.oembed
+04:53:27	Warning: 	HTML file (214041 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-z-pendant
+04:53:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-textured-i-heart.oembed
+04:53:41	Warning: 	HTML file (214041 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-y-pendant
+04:53:56	Warning: 	HTML file (214041 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-x-pendant
+04:54:14	Warning: 	HTML file (214041 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-w-pendant
+04:54:27	Warning: 	HTML file (214041 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-v-pendant
+04:54:43	Warning: 	HTML file (214041 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-u-pendant
+04:55:00	Warning: 	HTML file (214041 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-t-pendant
+04:55:11	Warning: 	HTML file (214041 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-r-pendant
+04:55:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-mushroom.oembed
+04:55:26	Warning: 	HTML file (214041 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-q-pendant
+04:55:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-bull-charm.oembed
+04:55:38	Warning: 	HTML file (214041 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-p-pendant
+04:55:52	Warning: 	HTML file (214041 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-o-pendant
+04:55:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/thin-bowknot-charm.oembed
+04:56:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/yoga-pose.oembed
+04:56:06	Warning: 	HTML file (214041 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-n-pendant
+04:56:19	Warning: 	HTML file (214041 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-l-pendant
+04:56:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-heart-eye.oembed
+04:56:33	Warning: 	HTML file (214041 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-k-pendant
+04:56:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/mini-cube.oembed
+04:56:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-hand-bag-charm.oembed
+04:56:48	Warning: 	HTML file (214041 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-i-pendant
+04:57:02	Warning: 	HTML file (214041 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-h-pendant
+04:57:15	Warning: 	HTML file (214041 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-g-pendant
+04:57:29	Warning: 	HTML file (214375 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-s
+04:57:43	Warning: 	HTML file (214375 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-r
+04:57:59	Warning: 	HTML file (214154 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-q
+04:58:16	Warning: 	HTML file (214154 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-p
+04:58:32	Warning: 	HTML file (214154 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-o
+04:58:45	Warning: 	HTML file (214167 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-n
+04:59:05	Warning: 	HTML file (214248 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-m
+04:59:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-letter-b.oembed
+04:59:18	Warning: 	HTML file (214154 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-l
+04:59:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-daisy-pearl-charm.oembed
+04:59:30	Warning: 	HTML file (214154 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-k
+04:59:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-guitar-charm.oembed
+04:59:43	Warning: 	HTML file (214167 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-i
+04:59:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-silver-glasses.oembed
+04:59:57	Warning: 	HTML file (214154 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-h
+05:00:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-3d-airplane-charm.oembed
+05:00:10	Warning: 	HTML file (214154 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-f
+05:00:22	Warning: 	HTML file (214249 bytes) retransferred due to lack of cache: https://marscharmss.com/products/copy-small-gold-letter-f
+05:00:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-red-heart-charm.oembed
+05:00:35	Warning: 	HTML file (214154 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-e
+05:00:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-cupid-charm-1.oembed
+05:00:47	Warning: 	HTML file (214167 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-d
+05:00:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-cupid-charm.oembed
+05:01:07	Warning: 	HTML file (214116 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-c
+05:01:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/imprinted-gold-starfish-charm.oembed
+05:01:19	Warning: 	HTML file (214244 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-star-eye-charm
+05:01:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/flat-ribbed-gold-heart.oembed
+05:01:31	Warning: 	HTML file (214279 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-star-eye-charm
+05:01:53	Warning: 	HTML file (214314 bytes) retransferred due to lack of cache: https://marscharmss.com/products/green-star-eye-charm
+05:02:04	Warning: 	HTML file (213787 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-snake
+05:02:20	Warning: 	HTML file (214052 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-black-circle-charm
+05:02:35	Warning: 	HTML file (214087 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-purple-circle-charm
+05:02:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/big-green-flower.oembed
+05:02:48	Warning: 	HTML file (214409 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-pink-circle-charm
+05:03:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/big-pink-and-gold-ballerina.oembed
+05:03:01	Warning: 	HTML file (214154 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-z
+05:03:13	Warning: 	HTML file (214154 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-y
+05:03:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/big-pink-bow-charm.oembed
+05:03:27	Warning: 	HTML file (214154 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-x
+05:03:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/big-pink-cherry-charm.oembed
+05:03:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/big-pink-strawberry-charm.oembed
+05:03:41	Warning: 	HTML file (214154 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-w
+05:03:55	Warning: 	HTML file (214154 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-v
+05:04:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/big-blue-bow-charm.oembed
+05:04:08	Warning: 	HTML file (214154 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-u
+05:04:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/big-purple-flower.oembed
+05:04:23	Warning: 	HTML file (214154 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-letter-t
+05:04:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/big-red-capricorn-charm.oembed
+05:04:40	Warning: 	HTML file (213787 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-textured-d-heart
+05:04:53	Warning: 	HTML file (213787 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-textured-e-heart
+05:05:06	Warning: 	HTML file (213787 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-textured-f-heart
+05:05:20	Warning: 	HTML file (213787 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-textured-h-heart
+05:05:37	Warning: 	HTML file (213787 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-textured-i-heart
+05:05:51	Warning: 	HTML file (213787 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-textured-l-heart
+05:06:10	Warning: 	HTML file (213787 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-textured-n-heart
+05:06:23	Warning: 	HTML file (213787 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-textured-o-heart
+05:06:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/birthday-cake.oembed
+05:06:38	Warning: 	HTML file (213787 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-textured-p-heart
+05:06:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/black-checkered-heart.oembed
+05:06:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/black-cricle-0-charm.oembed
+05:06:51	Warning: 	HTML file (213787 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-textured-q-heart
+05:07:08	Warning: 	HTML file (213787 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-textured-t-heart
+05:07:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/black-cricle-1-charm.oembed
+05:07:19	Warning: 	HTML file (214204 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-textured-u-heart-1
+05:07:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/black-cricle-2-charm.oembed
+05:07:34	Warning: 	HTML file (214204 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-textured-v-heart-1
+05:07:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/black-cricle-3-charm.oembed
+05:07:49	Warning: 	HTML file (214204 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-textured-w-heart-1
+05:07:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/black-cricle-4-charm.oembed
+05:08:03	Warning: 	HTML file (213787 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-textured-x-heart
+05:08:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/black-cricle-5-charm.oembed
+05:08:16	Warning: 	HTML file (213787 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-textured-y-heart
+05:08:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/black-cricle-6-charm.oembed
+05:08:29	Warning: 	HTML file (213787 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-textured-z-heart
+05:08:45	Warning: 	HTML file (213944 bytes) retransferred due to lack of cache: https://marscharmss.com/products/black-white-umbrella
+05:09:02	Warning: 	HTML file (213943 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-checkered-heart
+05:09:18	Warning: 	HTML file (214149 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-chill-pill
+05:09:31	Warning: 	HTML file (213225 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-pearl-shell
+05:09:51	Warning: 	HTML file (214131 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-textured-b-heart
+05:10:04	Warning: 	HTML file (214131 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-textured-e-heart
+05:10:18	Warning: 	HTML file (214131 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-textured-f-heart
+05:10:37	Warning: 	HTML file (214131 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-textured-h-heart
+05:10:49	Warning: 	HTML file (214131 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-textured-i-heart
+05:11:04	Warning: 	HTML file (214169 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-textured-o-heart-1
+05:11:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/white-gold-filled-flower.oembed
+05:11:21	Warning: 	HTML file (214131 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-textured-p-heart
+05:11:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/white-puff-heart-charm.oembed
+05:11:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/white-star-eye-charm.oembed
+05:11:34	Warning: 	HTML file (214094 bytes) retransferred due to lack of cache: https://marscharmss.com/products/turquoise-white-umbrella
+05:11:51	Warning: 	HTML file (214333 bytes) retransferred due to lack of cache: https://marscharmss.com/products/vintage-heart-lockett
+05:11:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/yellow-checkered-heart.oembed
+05:12:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/yellow-daisy-bead-charm.oembed
+05:12:06	Warning: 	HTML file (214099 bytes) retransferred due to lack of cache: https://marscharmss.com/products/cloud-sun-white-and-gold
+05:12:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/__customized-items.oembed
+05:12:20	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/white-cricle-0-charm
+05:12:37	Warning: 	HTML file (213990 bytes) retransferred due to lack of cache: https://marscharmss.com/products/white-cricle-1-charm
+05:12:50	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/white-cricle-2-charm
+05:13:10	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/white-cricle-3-charm
+05:13:25	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/white-cricle-4-charm
+05:13:44	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/white-cricle-6-charm
+05:13:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-august-birth-flower.oembed
+05:13:58	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/white-cricle-7-charm
+05:13:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-july-birth-flower.oembed
+05:14:13	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/white-cricle-8-charm
+05:14:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-june-birth-flower.oembed
+05:14:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-may-birth-flower.oembed
+05:14:26	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/white-cricle-9-charm
+05:14:41	Warning: 	HTML file (214060 bytes) retransferred due to lack of cache: https://marscharmss.com/products/white-daisy-bead-charm
+05:14:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-march-birth-flower.oembed
+05:14:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-february-birth-flower.oembed
+05:14:55	Warning: 	HTML file (213934 bytes) retransferred due to lack of cache: https://marscharmss.com/products/square-letter-w
+05:15:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-january-birth-flower.oembed
+05:15:09	Warning: 	HTML file (213934 bytes) retransferred due to lack of cache: https://marscharmss.com/products/square-letter-x
+05:15:21	Warning: 	HTML file (213934 bytes) retransferred due to lack of cache: https://marscharmss.com/products/square-letter-y
+05:15:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/mini-triumphal-arch.oembed
+05:15:37	Warning: 	HTML file (213934 bytes) retransferred due to lack of cache: https://marscharmss.com/products/square-letter-z
+05:15:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-big-gold-filled-boat.oembed
+05:15:53	Warning: 	HTML file (219781 bytes) retransferred due to lack of cache: https://marscharmss.com/products/sterling-silver-paperclip-chain-bracelet
+05:15:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-candy-piece.oembed
+05:16:06	Warning: 	HTML file (214779 bytes) retransferred due to lack of cache: https://marscharmss.com/products/sterling-silver-heart-stethoscope
+05:16:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-green-mushroom.oembed
+05:16:19	Warning: 	HTML file (214604 bytes) retransferred due to lack of cache: https://marscharmss.com/products/sterling-silver-kitchen-aide
+05:16:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/mini-gold-passport.oembed
+05:16:33	Warning: 	HTML file (214709 bytes) retransferred due to lack of cache: https://marscharmss.com/products/sterling-silver-palm-tree-charm
+05:16:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-sun.oembed
+05:16:48	Warning: 	HTML file (213990 bytes) retransferred due to lack of cache: https://marscharmss.com/products/tan-daisy-bead-charm
+05:16:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-z-pendant.oembed
+05:17:02	Warning: 	HTML file (213454 bytes) retransferred due to lack of cache: https://marscharmss.com/products/thin-bowknot-charm-silver
+05:17:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/collections/charms.oembed?page=8
+05:17:14	Warning: 	HTML file (214374 bytes) retransferred due to lack of cache: https://marscharmss.com/products/thin-gold-clover-charm
+05:17:31	Warning: 	HTML file (214041 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-f-pendant
+05:17:46	Warning: 	HTML file (214041 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-d-pendant
+05:18:02	Warning: 	HTML file (214041 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-b-pendant
+05:18:16	Warning: 	HTML file (214496 bytes) retransferred due to lack of cache: https://marscharmss.com/products/copy-gold-filled-lobg-textured-heart
+05:18:35	Warning: 	HTML file (213866 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-dice
+05:18:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-y-pendant.oembed
+05:18:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-x-pendant.oembed
+05:18:47	Warning: 	HTML file (213971 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-dolphin
+05:19:01	Warning: 	HTML file (214436 bytes) retransferred due to lack of cache: https://marscharmss.com/products/copy-gold-filled-pink-greenflowers
+05:19:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-w-pendant.oembed
+05:19:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-v-pendant.oembed
+05:19:15	Warning: 	HTML file (214050 bytes) retransferred due to lack of cache: https://marscharmss.com/products/white-gold-filled-banana
+05:19:28	Warning: 	HTML file (214265 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-x-letter-3
+05:19:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-u-pendant.oembed
+05:19:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-t-pendant.oembed
+05:19:41	Warning: 	HTML file (214265 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-x-letter-2
+05:19:52	Warning: 	HTML file (214744 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-pink-sun-star-circle
+05:20:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-r-pendant.oembed
+05:20:05	Warning: 	HTML file (214744 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-blue-sun-star-circle
+05:20:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-q-pendant.oembed
+05:20:22	Warning: 	HTML file (214420 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-football
+05:20:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-p-pendant.oembed
+05:20:35	Warning: 	HTML file (214261 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-converse
+05:20:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-o-pendant.oembed
+05:20:47	Warning: 	HTML file (214349 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-small-airplane
+05:21:02	Warning: 	HTML file (214562 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-black-white-checkered-heart-copy
+05:21:16	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-cherry-charm-1
+05:21:28	Warning: 	HTML file (213930 bytes) retransferred due to lack of cache: https://marscharmss.com/products/marble-pearl-heart
+05:21:40	Warning: 	HTML file (213699 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-tooth
+05:21:54	Warning: 	HTML file (214227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-a-letter
+05:22:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-letter-s.oembed
+05:22:09	Warning: 	HTML file (214227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-b-letter
+05:22:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-letter-r.oembed
+05:22:23	Warning: 	HTML file (214227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-d-letter
+05:22:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-letter-q.oembed
+05:22:36	Warning: 	HTML file (214227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-e-letter
+05:22:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-letter-p.oembed
+05:22:49	Warning: 	HTML file (214227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-f-letter
+05:22:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-letter-o.oembed
+05:23:04	Warning: 	HTML file (214227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-g-letter
+05:23:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-letter-n.oembed
+05:23:18	Warning: 	HTML file (213949 bytes) retransferred due to lack of cache: https://marscharmss.com/products/square-letter-r
+05:23:29	Warning: 	HTML file (213934 bytes) retransferred due to lack of cache: https://marscharmss.com/products/square-letter-q
+05:23:42	Warning: 	HTML file (213934 bytes) retransferred due to lack of cache: https://marscharmss.com/products/square-letter-p
+05:23:55	Warning: 	HTML file (213934 bytes) retransferred due to lack of cache: https://marscharmss.com/products/square-letter-o
+05:24:09	Warning: 	HTML file (213934 bytes) retransferred due to lack of cache: https://marscharmss.com/products/square-letter-n
+05:24:26	Warning: 	HTML file (213949 bytes) retransferred due to lack of cache: https://marscharmss.com/products/square-letter-l
+05:24:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/red-star-eye-charm.oembed
+05:24:39	Warning: 	HTML file (213949 bytes) retransferred due to lack of cache: https://marscharmss.com/products/square-letter-k
+05:24:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/blue-star-eye-charm.oembed
+05:24:55	Warning: 	HTML file (213934 bytes) retransferred due to lack of cache: https://marscharmss.com/products/square-letter-i
+05:24:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/green-star-eye-charm.oembed
+05:25:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-snake.oembed
+05:25:08	Warning: 	HTML file (213949 bytes) retransferred due to lack of cache: https://marscharmss.com/products/square-letter-h
+05:25:18	Warning: 	HTML file (213934 bytes) retransferred due to lack of cache: https://marscharmss.com/products/square-letter-g
+05:25:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-black-circle-charm.oembed
+05:25:31	Warning: 	HTML file (213934 bytes) retransferred due to lack of cache: https://marscharmss.com/products/square-letter-f
+05:25:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-purple-circle-charm.oembed
+05:25:44	Warning: 	HTML file (213921 bytes) retransferred due to lack of cache: https://marscharmss.com/products/square-letter-e
+05:25:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-pink-circle-charm.oembed
+05:26:00	Warning: 	HTML file (213949 bytes) retransferred due to lack of cache: https://marscharmss.com/products/square-letter-d
+05:26:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-letter-z.oembed
+05:26:11	Warning: 	HTML file (214505 bytes) retransferred due to lack of cache: https://marscharmss.com/products/copy-circle-black-n-charm
+05:26:24	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-black-l-charm
+05:26:42	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-black-i-charm
+05:26:55	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-black-h-charm
+05:27:11	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-black-g-charm
+05:27:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/black-textured-d-heart.oembed
+05:27:24	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-black-f-charm
+05:27:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/black-textured-e-heart.oembed
+05:27:37	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-black-e-charm
+05:27:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/black-textured-f-heart.oembed
+05:27:50	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-black-d-charm
+05:28:00	Warning: 	HTML file (213934 bytes) retransferred due to lack of cache: https://marscharmss.com/products/square-letter-v
+05:28:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/black-textured-h-heart.oembed
+05:28:16	Warning: 	HTML file (213934 bytes) retransferred due to lack of cache: https://marscharmss.com/products/square-letter-u
+05:28:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/black-textured-i-heart.oembed
+05:28:31	Warning: 	HTML file (213934 bytes) retransferred due to lack of cache: https://marscharmss.com/products/square-letter-t
+05:28:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/black-textured-l-heart.oembed
+05:28:44	Warning: 	HTML file (213949 bytes) retransferred due to lack of cache: https://marscharmss.com/products/square-letter-s
+05:28:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/black-textured-n-heart.oembed
+05:28:55	Warning: 	HTML file (214131 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-textured-q-heart
+05:29:10	Warning: 	HTML file (214131 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-textured-r-heart
+05:29:23	Warning: 	HTML file (214131 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-textured-t-heart
+05:29:36	Warning: 	HTML file (214131 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-textured-u-heart
+05:29:54	Warning: 	HTML file (214131 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-textured-v-heart
+05:30:06	Warning: 	HTML file (214131 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-textured-w-heart
+05:30:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/black-textured-z-heart.oembed
+05:30:20	Warning: 	HTML file (214131 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-textured-x-heart
+05:30:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/black-white-umbrella.oembed
+05:30:45	Warning: 	HTML file (214169 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-textured-y-heart-1
+05:30:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/blue-checkered-heart.oembed
+05:30:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/blue-chill-pill.oembed
+05:31:09	Warning: 	HTML file (214131 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-textured-z-heart
+05:31:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/blue-pearl-shell.oembed
+05:31:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/blue-textured-b-heart.oembed
+05:31:32	Warning: 	HTML file (214104 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-purple-cola-charm
+05:31:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/blue-textured-e-heart.oembed
+05:31:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/blue-textured-f-heart.oembed
+05:31:42	Warning: 	HTML file (214269 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-purple-cola-silver-charm
+05:31:56	Warning: 	HTML file (213919 bytes) retransferred due to lack of cache: https://marscharmss.com/products/blue-white-umbrella
+05:31:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/blue-textured-h-heart.oembed
+05:32:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/blue-textured-i-heart.oembed
+05:32:08	Warning: 	HTML file (213775 bytes) retransferred due to lack of cache: https://marscharmss.com/products/bright-umbrella
+05:32:20	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-black-o-charm
+05:32:33	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-black-p-charm
+05:32:43	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-black-q-charm
+05:32:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/turquoise-white-umbrella.oembed
+05:32:59	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-black-r-charm
+05:33:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/vintage-heart-lockett.oembed
+05:33:14	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-black-t-charm
+05:33:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/cloud-sun-white-and-gold.oembed
+05:33:26	Warning: 	HTML file (301583 bytes) retransferred due to lack of cache: https://marscharmss.com/collections/all?page=44&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InRpdGxlIiwic3YiOiJTcXVhcmUgTGV0dGVyIOKAnEXigJ0iLCJkIjoiYiIsInVpZCI6ODk0NDAzMjI1MjIyMSwibCI6MTYsIm8iOjAsInIiOiJDUCJ9.dva2dQPrUl5Rlt6C4aUqlxVG8jhg4WpHYJFItQAzXWA
+05:33:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/square-letter-w.oembed
+05:33:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/square-letter-x.oembed
+05:33:40	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-r-charm
+05:33:53	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-s-charm
+05:34:06	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-t-charm
+05:34:18	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-u-charm
+05:34:31	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-v-charm
+05:34:46	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-w-charm
+05:34:58	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-x-charm
+05:35:09	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-y-charm
+05:35:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-f-pendant.oembed
+05:35:23	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-z-charm
+05:35:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-d-pendant.oembed
+05:35:40	Warning: 	HTML file (214473 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-gold-hawaiian-flower
+05:35:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-b-pendant.oembed
+05:35:50	Warning: 	HTML file (213342 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-yellow-mushroom
+05:35:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/copy-gold-filled-lobg-textured-heart.oembed
+05:36:02	Warning: 	HTML file (213366 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-yellow-c-charm
+05:36:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-dice.oembed
+05:36:13	Warning: 	HTML file (213366 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-yellow-j-charm
+05:36:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-dolphin.oembed
+05:36:23	Warning: 	HTML file (213366 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-yellow-q-charm
+05:36:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/copy-gold-filled-pink-greenflowers.oembed
+05:36:36	Warning: 	HTML file (213366 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-yellow-x-charm
+05:36:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/white-gold-filled-banana.oembed
+05:36:48	Warning: 	HTML file (214227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-h-letter
+05:37:04	Warning: 	HTML file (214227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-i-letter
+05:37:16	Warning: 	HTML file (214227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-k-letter
+05:37:35	Warning: 	HTML file (214227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-l-letter
+05:37:46	Warning: 	HTML file (214227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-n-letter
+05:37:59	Warning: 	HTML file (214227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-o-letter
+05:38:19	Warning: 	HTML file (214227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-p-letter
+05:38:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-small-airplane.oembed
+05:38:30	Warning: 	HTML file (214227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-q-letter
+05:38:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-black-white-checkered-heart-copy.oembed
+05:38:45	Warning: 	HTML file (214227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-r-letter
+05:38:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-cherry-charm-1.oembed
+05:38:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/marble-pearl-heart.oembed
+05:38:58	Warning: 	HTML file (214227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-s-letter
+05:39:12	Warning: 	HTML file (214227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-t-letter
+05:39:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-tooth.oembed
+05:39:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-pearl-a-letter.oembed
+05:39:25	Warning: 	HTML file (214227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-u-letter
+05:39:38	Warning: 	HTML file (214227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-v-letter
+05:39:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-pearl-b-letter.oembed
+05:39:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-pearl-d-letter.oembed
+05:39:51	Warning: 	HTML file (214227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-y-letter
+05:40:03	Warning: 	HTML file (214227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-pearl-z-letter
+05:40:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-pearl-e-letter.oembed
+05:40:15	Warning: 	HTML file (214235 bytes) retransferred due to lack of cache: https://marscharmss.com/products/light-blue-daisy-bead-charm
+05:40:31	Warning: 	HTML file (214095 bytes) retransferred due to lack of cache: https://marscharmss.com/products/orange-daisy-bead-charm
+05:40:43	Warning: 	HTML file (214200 bytes) retransferred due to lack of cache: https://marscharmss.com/products/turquoise-daisy-bead-charm
+05:40:55	Warning: 	HTML file (214375 bytes) retransferred due to lack of cache: https://marscharmss.com/products/light-colorful-daisy-bead-charm
+05:41:08	Warning: 	HTML file (214340 bytes) retransferred due to lack of cache: https://marscharmss.com/products/dark-colorful-daisy-bead-charm
+05:41:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/square-letter-r.oembed
+05:41:21	Warning: 	HTML file (214025 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-daisy-bead-charm
+05:41:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/square-letter-q.oembed
+05:41:34	Warning: 	HTML file (214060 bytes) retransferred due to lack of cache: https://marscharmss.com/products/green-daisy-bead-charm
+05:41:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/square-letter-p.oembed
+05:41:46	Warning: 	HTML file (214095 bytes) retransferred due to lack of cache: https://marscharmss.com/products/purple-daisy-bead-charm
+05:41:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/square-letter-o.oembed
+05:41:58	Warning: 	HTML file (214001 bytes) retransferred due to lack of cache: https://marscharmss.com/products/teddy-bear-charm-copy
+05:42:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/square-letter-n.oembed
+05:42:10	Warning: 	HTML file (214300 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mid-size-textured-gold-heart
+05:42:24	Warning: 	HTML file (214235 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-letter-n
+05:42:36	Warning: 	HTML file (214235 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-letter-i
+05:42:47	Warning: 	HTML file (214235 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-letter-g
+05:43:01	Warning: 	HTML file (214235 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-letter-f
+05:43:16	Warning: 	HTML file (214235 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-letter-b
+05:43:29	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-black-z-charm
+05:43:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/copy-circle-black-n-charm.oembed
+05:43:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/circle-black-l-charm.oembed
+05:43:41	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-black-y-charm
+05:43:56	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-black-x-charm
+05:44:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/circle-black-i-charm.oembed
+05:44:09	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-black-w-charm
+05:44:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/circle-black-h-charm.oembed
+05:44:23	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-black-v-charm
+05:44:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/circle-black-g-charm.oembed
+05:44:35	Warning: 	HTML file (214410 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-black-u-charm
+05:44:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/circle-black-f-charm.oembed
+05:44:51	Warning: 	HTML file (241086 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mars-charms-gift-card
+05:45:03	Warning: 	HTML file (214125 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-pink-heart-charm
+05:45:14	Warning: 	HTML file (214134 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-diamonds-suit-charm
+05:45:27	Warning: 	HTML file (214235 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-letter-z
+05:45:43	Warning: 	HTML file (214330 bytes) retransferred due to lack of cache: https://marscharmss.com/products/copy-silver-letter-y
+05:45:55	Warning: 	HTML file (214235 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-letter-x
+05:46:07	Warning: 	HTML file (214235 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-letter-w
+05:46:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/blue-textured-q-heart.oembed
+05:46:18	Warning: 	HTML file (214235 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-letter-v
+05:46:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/blue-textured-r-heart.oembed
+05:46:36	Warning: 	HTML file (214235 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-letter-u
+05:46:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/blue-textured-t-heart.oembed
+05:46:47	Warning: 	HTML file (214235 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-letter-t
+05:46:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/blue-textured-u-heart.oembed
+05:47:00	Warning: 	HTML file (214235 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-letter-q
+05:47:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/blue-textured-v-heart.oembed
+05:47:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/blue-textured-w-heart.oembed
+05:47:13	Warning: 	HTML file (214235 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-letter-p
+05:47:29	Warning: 	HTML file (214235 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-letter-o
+05:47:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/blue-textured-x-heart.oembed
+05:47:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/blue-textured-y-heart-1.oembed
+05:47:41	Warning: 	HTML file (214375 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-gold-f-charm
+05:47:53	Warning: 	HTML file (214375 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-gold-i-charm
+05:48:11	Warning: 	HTML file (214375 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-gold-n-charm
+05:48:24	Warning: 	HTML file (214375 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-gold-r-charm
+05:48:40	Warning: 	HTML file (214375 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-gold-u-charm
+05:48:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/circle-black-o-charm.oembed
+05:48:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/circle-black-p-charm.oembed
+05:48:53	Warning: 	HTML file (214375 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-gold-v-charm
+05:49:05	Warning: 	HTML file (214375 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-gold-w-charm
+05:49:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/circle-black-q-charm.oembed
+05:49:16	Warning: 	HTML file (214375 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-gold-x-charm
+05:49:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/circle-black-r-charm.oembed
+05:49:28	Warning: 	HTML file (214375 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-gold-y-charm
+05:49:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/circle-black-t-charm.oembed
+05:49:46	Warning: 	HTML file (213836 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-white-f
+05:49:59	Warning: 	HTML file (213836 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-white-g
+05:50:17	Warning: 	HTML file (213836 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-white-i
+05:50:30	Warning: 	HTML file (213836 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-white-n
+05:50:48	Warning: 	HTML file (213836 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-white-o
+05:51:01	Warning: 	HTML file (213836 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-white-p
+05:51:12	Warning: 	HTML file (213836 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-white-q
+05:51:33	Warning: 	HTML file (213836 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-white-t
+05:52:01	Warning: 	HTML file (213836 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-white-u
+05:52:25	Warning: 	HTML file (213836 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-white-v
+05:52:45	Warning: 	HTML file (213836 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-white-w
+05:52:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-white-r-charm.oembed
+05:52:58	Warning: 	HTML file (213836 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-white-x
+05:53:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-white-s-charm.oembed
+05:53:11	Warning: 	HTML file (213836 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-white-y
+05:53:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-white-t-charm.oembed
+05:53:24	Warning: 	HTML file (213836 bytes) retransferred due to lack of cache: https://marscharmss.com/products/circle-white-z
+05:53:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-white-u-charm.oembed
+05:53:36	Warning: 	HTML file (214037 bytes) retransferred due to lack of cache: https://marscharmss.com/products/coke-bottle-1
+05:53:49	Warning: 	HTML file (214174 bytes) retransferred due to lack of cache: https://marscharmss.com/products/coke-zero-bottle
+05:53:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-white-v-charm.oembed
+05:54:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-white-w-charm.oembed
+05:54:02	Warning: 	HTML file (214519 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-turquoise-gold-hawaiian-flower
+05:54:16	Warning: 	HTML file (213940 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-converse
+05:54:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-white-x-charm.oembed
+05:54:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-white-y-charm.oembed
+05:54:29	Warning: 	HTML file (214409 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-heart-charm
+05:54:42	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-d-charm
+05:54:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-white-z-charm.oembed
+05:54:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-white-gold-hawaiian-flower.oembed
+05:54:54	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-e-charm
+05:55:09	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-f-charm
+05:55:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-yellow-mushroom.oembed
+05:55:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-yellow-c-charm.oembed
+05:55:22	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-g-charm
+05:55:35	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-h-charm
+05:55:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-yellow-j-charm.oembed
+05:55:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-yellow-q-charm.oembed
+05:55:48	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-i-charm
+05:56:02	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-j-charm
+05:56:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-yellow-x-charm.oembed
+05:56:17	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-k-charm
+05:56:33	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-l-charm
+05:56:48	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-n-charm
+05:57:04	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-o-charm
+05:57:18	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-p-charm
+05:57:30	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-white-q-charm
+05:57:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-pearl-h-letter.oembed
+05:57:43	Warning: 	HTML file (214156 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-purple-daisy-charm
+05:57:55	Warning: 	HTML file (213366 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-purple-e-charm
+05:57:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-pearl-i-letter.oembed
+05:58:09	Warning: 	HTML file (213366 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-purple-l-charm
+05:58:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-pearl-k-letter.oembed
+05:58:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-pearl-l-letter.oembed
+05:58:22	Warning: 	HTML file (213366 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-purple-s-charm
+05:58:35	Warning: 	HTML file (213391 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-purple-z-charm
+05:58:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-pearl-n-letter.oembed
+05:58:45	Warning: 	HTML file (213985 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-red-daisy-charm
+05:58:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-pearl-o-letter.oembed
+05:59:00	Warning: 	HTML file (213227 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-red-mushroom
+05:59:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-pearl-p-letter.oembed
+05:59:14	Warning: 	HTML file (213929 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-red-strawberry
+05:59:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-pearl-q-letter.oembed
+05:59:28	Warning: 	HTML file (213251 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-red-a-charm
+05:59:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-pearl-r-letter.oembed
+05:59:39	Warning: 	HTML file (213261 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-red-h-charm
+05:59:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-pearl-s-letter.oembed
+05:59:53	Warning: 	HTML file (213261 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-red-o-charm
+06:00:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-pearl-t-letter.oembed
+06:00:08	Warning: 	HTML file (213261 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-red-v-charm
+06:00:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-pearl-u-letter.oembed
+06:00:22	Warning: 	HTML file (214309 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-red-gold-hawaiian-flower
+06:00:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-pearl-v-letter.oembed
+06:00:32	Warning: 	HTML file (214009 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-silver-dinosaur
+06:00:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-pearl-w-letter.oembed
+06:00:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-pearl-y-letter.oembed
+06:00:43	Warning: 	HTML file (213614 bytes) retransferred due to lack of cache: https://marscharmss.com/products/green-gem
+06:01:03	Warning: 	HTML file (214036 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-dinosaur
+06:01:14	Warning: 	HTML file (214397 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-yellow-blue-checkered-heart
+06:01:29	Warning: 	HTML file (214362 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-green-pink-checkered-heart
+06:01:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/light-blue-daisy-bead-charm.oembed
+06:01:45	Warning: 	HTML file (213794 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-sun
+06:01:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/orange-daisy-bead-charm.oembed
+06:01:56	Warning: 	HTML file (214046 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-flower-imprint
+06:02:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/turquoise-daisy-bead-charm.oembed
+06:02:16	Warning: 	HTML file (214078 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-house-charms
+06:02:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/light-colorful-daisy-bead-charm.oembed
+06:02:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/dark-colorful-daisy-bead-charm.oembed
+06:02:27	Warning: 	HTML file (214344 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-pink-gold-hawaiian-flower
+06:02:40	Warning: 	HTML file (214379 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-black-gold-hawaiian-flower
+06:02:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pink-daisy-bead-charm.oembed
+06:02:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/green-daisy-bead-charm.oembed
+06:02:53	Warning: 	HTML file (214314 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-crescent-moon
+06:03:04	Warning: 	HTML file (213999 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-lightning-bolt
+06:03:18	Warning: 	HTML file (213944 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-green-flower
+06:03:34	Warning: 	HTML file (213869 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-droopy-bow
+06:03:46	Warning: 	HTML file (214489 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-and-blue-heart-charm
+06:03:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-letter-n.oembed
+06:04:04	Warning: 	HTML file (214134 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-textured-heart-cross
+06:04:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-letter-i.oembed
+06:04:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-letter-g.oembed
+06:04:16	Warning: 	HTML file (214204 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-hot-pink-flower
+06:04:29	Warning: 	HTML file (214180 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-purple-heart-charm
+06:04:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-letter-f.oembed
+06:04:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-letter-b.oembed
+06:04:42	Warning: 	HTML file (214180 bytes) retransferred due to lack of cache: https://marscharmss.com/products/solver-orange-heart-charm
+06:04:55	Warning: 	HTML file (214110 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-purple-heart-charm
+06:04:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/circle-black-z-charm.oembed
+06:05:07	Warning: 	HTML file (214199 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-coffee-cup
+06:05:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/mars-charms-gift-card.oembed
+06:05:19	Warning: 	HTML file (213933 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-checkered-heart
+06:05:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-pink-heart-charm.oembed
+06:05:32	Warning: 	HTML file (213296 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-pink-k-charm
+06:05:46	Warning: 	HTML file (213331 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-green-i-charm
+06:06:01	Warning: 	HTML file (213366 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-orange-g-charm
+06:06:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/circle-gold-f-charm.oembed
+06:06:14	Warning: 	HTML file (213296 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-blue-f-charm
+06:06:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/circle-gold-i-charm.oembed
+06:06:25	Warning: 	HTML file (213296 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-pink-d-charm
+06:06:36	Warning: 	HTML file (213331 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-green-b-charm
+06:06:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/circle-gold-n-charm.oembed
+06:06:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/circle-gold-r-charm.oembed
+06:06:49	Warning: 	HTML file (213779 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-mushroom
+06:07:00	Warning: 	HTML file (213940 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-black-converse
+06:07:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/circle-gold-u-charm.oembed
+06:07:15	Warning: 	HTML file (213944 bytes) retransferred due to lack of cache: https://marscharmss.com/products/custom-charm-bracelet
+06:07:29	Warning: 	HTML file (222776 bytes) retransferred due to lack of cache: https://marscharmss.com/products/custom-jewelry-necklace-test
+06:07:42	Warning: 	HTML file (216762 bytes) retransferred due to lack of cache: https://marscharmss.com/products/custom-slider-neckless
+06:07:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/circle-white-g.oembed
+06:07:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/circle-white-i.oembed
+06:07:54	Warning: 	HTML file (213705 bytes) retransferred due to lack of cache: https://marscharmss.com/products/dark-umbrella
+06:08:09	Warning: 	HTML file (214489 bytes) retransferred due to lack of cache: https://marscharmss.com/products/december-birthstone-charm
+06:08:22	Warning: 	HTML file (216652 bytes) retransferred due to lack of cache: https://marscharmss.com/products/demo-t-shirt-automatic-recoloring-out-of-stock-test-product
+06:08:40	Warning: 	HTML file (214489 bytes) retransferred due to lack of cache: https://marscharmss.com/products/february-birthstone-charm
+06:08:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-turquoise-gold-hawaiian-flower.oembed
+06:08:52	Warning: 	HTML file (214514 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-and-black-heart-charm
+06:08:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-white-converse.oembed
+06:09:08	Warning: 	HTML file (213755 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-avocado
+06:09:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-white-heart-charm.oembed
+06:09:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-white-d-charm.oembed
+06:09:20	Warning: 	HTML file (216182 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-beaded-bracelet
+06:09:32	Warning: 	HTML file (213331 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-green-w-charm
+06:09:43	Warning: 	HTML file (214032 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-orange-daisy
+06:09:56	Warning: 	HTML file (213366 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-orange-n-charm
+06:10:12	Warning: 	HTML file (213366 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-orange-u-charm
+06:10:25	Warning: 	HTML file (213547 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-pink-heart-charm
+06:10:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-purple-daisy-charm.oembed
+06:10:35	Warning: 	HTML file (213296 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-pink-r-charm
+06:10:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-purple-e-charm.oembed
+06:10:50	Warning: 	HTML file (213296 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-pink-y-charm
+06:10:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-purple-l-charm.oembed
+06:11:05	Warning: 	HTML file (213323 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-puff-gold-star
+06:11:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-purple-s-charm.oembed
+06:11:18	Warning: 	HTML file (213414 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-puff-silver-star
+06:11:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-purple-z-charm.oembed
+06:11:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-red-daisy-charm.oembed
+06:11:31	Warning: 	HTML file (214121 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-green-daisy-charm
+06:11:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/green-gem.oembed
+06:11:43	Warning: 	HTML file (213331 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-green-p-charm
+06:11:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-gold-dinosaur.oembed
+06:11:55	Warning: 	HTML file (214779 bytes) retransferred due to lack of cache: https://marscharmss.com/products/long-gold-filled-sagitarius-charm
+06:12:07	Warning: 	HTML file (214604 bytes) retransferred due to lack of cache: https://marscharmss.com/products/long-gold-filled-libra-charm
+06:12:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-crescent-moon.oembed
+06:12:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-lightning-bolt.oembed
+06:12:19	Warning: 	HTML file (214674 bytes) retransferred due to lack of cache: https://marscharmss.com/products/long-gold-filled-scorpio-charm
+06:12:32	Warning: 	HTML file (214604 bytes) retransferred due to lack of cache: https://marscharmss.com/products/long-gold-filled-virgo-charm
+06:12:46	Warning: 	HTML file (214639 bytes) retransferred due to lack of cache: https://marscharmss.com/products/long-gold-filled-cancer-charm
+06:12:57	Warning: 	HTML file (214639 bytes) retransferred due to lack of cache: https://marscharmss.com/products/long-gold-filled-gemini-charm
+06:13:09	Warning: 	HTML file (214639 bytes) retransferred due to lack of cache: https://marscharmss.com/products/long-gold-filled-taurus-charm
+06:13:24	Warning: 	HTML file (214639 bytes) retransferred due to lack of cache: https://marscharmss.com/products/long-gold-filled-pisces-charm
+06:13:38	Warning: 	HTML file (214709 bytes) retransferred due to lack of cache: https://marscharmss.com/products/long-gold-filled-aquarius-charm
+06:13:55	Warning: 	HTML file (214744 bytes) retransferred due to lack of cache: https://marscharmss.com/products/long-gold-filled-capricorn-charm
+06:14:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-coffee-cup.oembed
+06:14:09	Warning: 	HTML file (214674 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-big-sewing-machine
+06:14:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pink-checkered-heart.oembed
+06:14:25	Warning: 	HTML file (214534 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-outlined-silver-heart
+06:14:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/collections/charms.oembed?page=31
+06:14:39	Warning: 	HTML file (214279 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-cherry-charm
+06:14:50	Warning: 	HTML file (213940 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golf-cowboy-hat
+06:14:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-pink-k-charm.oembed
+06:15:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-green-i-charm.oembed
+06:15:04	Warning: 	HTML file (214280 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-gold-3d-heart-charm
+06:15:18	Warning: 	HTML file (214245 bytes) retransferred due to lack of cache: https://marscharmss.com/products/light-green-checkered-heart
+06:15:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-orange-g-charm.oembed
+06:15:32	Warning: 	HTML file (214210 bytes) retransferred due to lack of cache: https://marscharmss.com/products/light-blue-checkered-heart
+06:15:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-blue-f-charm.oembed
+06:15:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-pink-d-charm.oembed
+06:15:45	Warning: 	HTML file (214031 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-strawberry
+06:15:58	Warning: 	HTML file (213379 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-half-puff-heart
+06:16:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-green-b-charm.oembed
+06:16:11	Warning: 	HTML file (213296 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-blue-t-charm
+06:16:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-mushroom.oembed
+06:16:25	Warning: 	HTML file (213296 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-blue-m-charm
+06:16:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-black-converse.oembed
+06:16:38	Warning: 	HTML file (213582 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-black-heart-charm
+06:16:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/custom-charm-bracelet.oembed
+06:16:51	Warning: 	HTML file (213639 bytes) retransferred due to lack of cache: https://marscharmss.com/products/copy-imprinted-silver-heart-charm
+06:17:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/custom-jewelry-necklace-test.oembed
+06:17:02	Warning: 	HTML file (214139 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-coffee-cup
+06:17:16	Warning: 	HTML file (213860 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-duffle-bag
+06:17:34	Warning: 	HTML file (214461 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-extender
+06:17:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/december-birthstone-charm.oembed
+06:17:45	Warning: 	HTML file (214680 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-angel-number-111
+06:17:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/demo-t-shirt-automatic-recoloring-out-of-stock-test-product.oembed
+06:17:57	Warning: 	HTML file (214690 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-angel-number-333
+06:18:07	Warning: 	HTML file (214690 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-angel-number-444
+06:18:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/february-birthstone-charm.oembed
+06:18:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-and-black-heart-charm.oembed
+06:18:19	Warning: 	HTML file (214690 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-angel-number-555
+06:18:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-avocado.oembed
+06:18:32	Warning: 	HTML file (214690 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-angel-number-666
+06:18:44	Warning: 	HTML file (214690 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-angel-number-888
+06:18:55	Warning: 	HTML file (214690 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-angel-number-999
+06:19:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-green-w-charm.oembed
+06:19:08	Warning: 	HTML file (214534 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-black-popsicle
+06:19:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-orange-daisy.oembed
+06:19:24	Warning: 	HTML file (214489 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-crescent-moon
+06:19:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-orange-n-charm.oembed
+06:19:36	Warning: 	HTML file (302851 bytes) retransferred due to lack of cache: https://marscharmss.com/collections/all?page=38&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InRpdGxlIiwic3YiOiJTbWFsbCBHb2xkIExldHRlciDigJxa4oCdIiwiZCI6ImIiLCJ1aWQiOjg5MjgyNzY3NDI0NjEsImwiOjE2LCJvIjowLCJyIjoiQ1AifQ.ZuADEitGgmxTYBlTfViSWQIhOUoZOzW9nrScgxpucB0
+06:19:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-green-daisy-charm.oembed
+06:19:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-green-p-charm.oembed
+06:19:50	Warning: 	HTML file (301883 bytes) retransferred due to lack of cache: https://marscharmss.com/collections/all?page=37&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InRpdGxlIiwic3YiOiJTbWFsbCBHb2xkIExldHRlciDigJxJ4oCdIiwiZCI6ImIiLCJ1aWQiOjg5MjgyNjEyNzU5NjUsImwiOjE2LCJvIjowLCJyIjoiQ1AifQ.pp93s1vECZvSqzygCqhYfXEsHS7reHnIId0Gb8MuQHE
+06:19:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/long-gold-filled-sagitarius-charm.oembed
+06:20:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/long-gold-filled-libra-charm.oembed
+06:20:03	Warning: 	HTML file (214000 bytes) retransferred due to lack of cache: https://marscharmss.com/products/navy-checkered-heart
+06:20:16	Warning: 	HTML file (213724 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-skis
+06:20:27	Warning: 	HTML file (213852 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-peace-sign
+06:20:41	Warning: 	HTML file (214125 bytes) retransferred due to lack of cache: https://marscharmss.com/products/i-love-you-asl-gold-filled
+06:20:52	Warning: 	HTML file (214460 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-bubble-letter-z
+06:21:07	Warning: 	HTML file (218739 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-bubble-letter-y
+06:21:17	Warning: 	HTML file (214460 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-bubble-letter-x
+06:21:32	Warning: 	HTML file (214460 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-bubble-letter-v
+06:21:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/long-gold-filled-virgo-charm.oembed
+06:21:43	Warning: 	HTML file (214460 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-bubble-letter-u
+06:21:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/long-gold-filled-cancer-charm.oembed
+06:21:59	Warning: 	HTML file (214460 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-bubble-letter-t
+06:22:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/long-gold-filled-gemini-charm.oembed
+06:22:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/long-gold-filled-taurus-charm.oembed
+06:22:11	Warning: 	HTML file (214460 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-bubble-letter-s
+06:22:24	Warning: 	HTML file (214460 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-bubble-letter-r
+06:22:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/long-gold-filled-pisces-charm.oembed
+06:22:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/long-gold-filled-aquarius-charm.oembed
+06:22:36	Warning: 	HTML file (214460 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-bubble-letter-q
+06:22:52	Warning: 	HTML file (214460 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-bubble-letter-p
+06:22:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/long-gold-filled-capricorn-charm.oembed
+06:23:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-big-sewing-machine.oembed
+06:23:04	Warning: 	HTML file (214460 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-bubble-letter-o
+06:23:15	Warning: 	HTML file (214460 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-bubble-letter-n
+06:23:26	Warning: 	HTML file (214460 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-bubble-letter-l
+06:23:41	Warning: 	HTML file (214479 bytes) retransferred due to lack of cache: https://marscharmss.com/products/lmini-gold-filled-bubble-letter-k
+06:23:56	Warning: 	HTML file (214460 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-bubble-letter-j
+06:24:11	Warning: 	HTML file (214460 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-bubble-letter-i
+06:24:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-strawberry.oembed
+06:24:24	Warning: 	HTML file (214460 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-bubble-letter-h
+06:24:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-half-puff-heart.oembed
+06:24:36	Warning: 	HTML file (214460 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-bubble-letter-f
+06:24:46	Warning: 	HTML file (214460 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-bubble-letter-d
+06:24:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-blue-t-charm.oembed
+06:24:57	Warning: 	HTML file (214460 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-bubble-letter-c
+06:25:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-blue-m-charm.oembed
+06:25:09	Warning: 	HTML file (214460 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-bubble-letter-b
+06:25:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/collections/charms.oembed?page=29
+06:25:21	Warning: 	HTML file (214450 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mini-gold-filled-bubble-letter-a
+06:25:40	Warning: 	HTML file (213417 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-textured-i-heart
+06:26:08	Warning: 	HTML file (213417 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-textured-h-heart
+06:26:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-black-heart-charm.oembed
+06:26:29	Warning: 	HTML file (213417 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-textured-g-heart
+06:26:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/copy-imprinted-silver-heart-charm.oembed
+06:26:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/collections/charms.oembed?page=28
+06:26:42	Warning: 	HTML file (213417 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-textured-f-heart
+06:26:52	Warning: 	HTML file (213417 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-textured-e-heart
+06:27:11	Warning: 	HTML file (213417 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-textured-d-heart
+06:27:22	Warning: 	HTML file (213715 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-turtle-charm
+06:27:34	Warning: 	HTML file (213295 bytes) retransferred due to lack of cache: https://marscharmss.com/products/orange-pearl-shell
+06:27:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-coffee-cup.oembed
+06:27:47	Warning: 	HTML file (213225 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-pearl-shell
+06:28:00	Warning: 	HTML file (213600 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-puff-heart-charm
+06:28:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-duffle-bag.oembed
+06:28:12	Warning: 	HTML file (213417 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-textured-z-heart
+06:28:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-extender.oembed
+06:28:23	Warning: 	HTML file (213417 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-textured-y-heart
+06:28:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-angel-number-111.oembed
+06:28:39	Warning: 	HTML file (213417 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-textured-x-heart
+06:28:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-angel-number-333.oembed
+06:28:53	Warning: 	HTML file (213417 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-textured-w-heart
+06:28:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-angel-number-444.oembed
+06:29:05	Warning: 	HTML file (213436 bytes) retransferred due to lack of cache: https://marscharmss.com/products/lpink-textured-v-heart
+06:29:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-angel-number-555.oembed
+06:29:24	Warning: 	HTML file (213417 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-textured-u-heart
+06:29:35	Warning: 	HTML file (213417 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-textured-t-heart
+06:29:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-angel-number-666.oembed
+06:29:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-angel-number-888.oembed
+06:29:48	Warning: 	HTML file (213417 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-textured-q-heart
+06:29:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-angel-number-999.oembed
+06:29:59	Warning: 	HTML file (213417 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-textured-p-heart
+06:30:12	Warning: 	HTML file (213417 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-textured-o-heart
+06:30:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-black-popsicle.oembed
+06:30:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-crescent-moon.oembed
+06:30:24	Warning: 	HTML file (213417 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-textured-n-heart
+06:30:37	Warning: 	HTML file (214384 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-red-cherry
+06:30:49	Warning: 	HTML file (214059 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-heart-wings
+06:31:08	Warning: 	HTML file (214164 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-mama
+06:31:35	Warning: 	HTML file (214933 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-mom-tag
+06:31:59	Warning: 	HTML file (214744 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-oval-textured-locket
+06:32:20	Warning: 	HTML file (214559 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-palm-tree-charm
+06:32:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/navy-checkered-heart.oembed
+06:32:31	Warning: 	HTML file (214035 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-blue-daisy-charm
+06:32:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/mini-gold-skis.oembed
+06:32:44	Warning: 	HTML file (214418 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-r-charm
+06:32:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-peace-sign.oembed
+06:32:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/i-love-you-asl-gold-filled.oembed
+06:32:57	Warning: 	HTML file (214418 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-s-charm
+06:33:08	Warning: 	HTML file (214418 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-t-charm
+06:33:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/mini-gold-filled-bubble-letter-z.oembed
+06:33:21	Warning: 	HTML file (214418 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-u-charm
+06:33:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/mini-gold-filled-bubble-letter-y.oembed
+06:33:34	Warning: 	HTML file (214418 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-v-charm
+06:33:49	Warning: 	HTML file (214418 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-w-charm
+06:33:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/mini-gold-filled-bubble-letter-x.oembed
+06:34:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/mini-gold-filled-bubble-letter-v.oembed
+06:34:01	Warning: 	HTML file (214418 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-x-charm
+06:34:14	Warning: 	HTML file (214418 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-y-charm
+06:34:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/mini-gold-filled-bubble-letter-u.oembed
+06:34:25	Warning: 	HTML file (214418 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-z-charm
+06:34:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/mini-gold-filled-bubble-letter-t.oembed
+06:34:40	Warning: 	HTML file (213766 bytes) retransferred due to lack of cache: https://marscharmss.com/products/slider-pink-you-me
+06:34:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/mini-gold-filled-bubble-letter-s.oembed
+06:34:54	Warning: 	HTML file (214647 bytes) retransferred due to lack of cache: https://marscharmss.com/products/slider-red-black-you-me-charm
+06:34:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/mini-gold-filled-bubble-letter-r.oembed
+06:35:06	Warning: 	HTML file (214055 bytes) retransferred due to lack of cache: https://marscharmss.com/products/small-black-daisy-charm
+06:35:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/mini-gold-filled-bubble-letter-q.oembed
+06:35:17	Warning: 	HTML file (305256 bytes) retransferred due to lack of cache: https://marscharmss.com/collections/charms?page=20
+06:35:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/mini-gold-filled-bubble-letter-n.oembed
+06:35:32	Warning: 	HTML file (214508 bytes) retransferred due to lack of cache: https://marscharmss.com/products/november-birthstone-charme
+06:35:46	Warning: 	HTML file (214473 bytes) retransferred due to lack of cache: https://marscharmss.com/products/october-birthstone-charme
+06:36:02	Warning: 	HTML file (214543 bytes) retransferred due to lack of cache: https://marscharmss.com/products/september-birthstone-charme
+06:36:14	Warning: 	HTML file (214368 bytes) retransferred due to lack of cache: https://marscharmss.com/products/july-birthstone-charme
+06:36:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pink-textured-i-heart.oembed
+06:36:27	Warning: 	HTML file (214314 bytes) retransferred due to lack of cache: https://marscharmss.com/products/may-birthstone-charm
+06:36:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pink-textured-h-heart.oembed
+06:36:38	Warning: 	HTML file (214384 bytes) retransferred due to lack of cache: https://marscharmss.com/products/march-birthstone-charm
+06:36:48	Warning: 	HTML file (214444 bytes) retransferred due to lack of cache: https://marscharmss.com/products/january-birthstone-charm
+06:36:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pink-textured-g-heart.oembed
+06:36:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pink-textured-f-heart.oembed
+06:37:00	Warning: 	HTML file (214464 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-small-cactus
+06:37:14	Warning: 	HTML file (214909 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-pink-happy-birthday-charm
+06:37:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pink-textured-e-heart.oembed
+06:37:28	Warning: 	HTML file (213382 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-textured-v-heart
+06:37:39	Warning: 	HTML file (213382 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-textured-u-heart
+06:37:58	Warning: 	HTML file (213382 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-textured-t-heart
+06:38:10	Warning: 	HTML file (213382 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-textured-r-heart
+06:38:25	Warning: 	HTML file (213382 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-textured-q-heart
+06:38:40	Warning: 	HTML file (213382 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-textured-p-heart
+06:38:51	Warning: 	HTML file (213382 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-textured-o-heart
+06:39:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pink-textured-z-heart.oembed
+06:39:04	Warning: 	HTML file (213382 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-textured-n-heart
+06:39:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pink-textured-y-heart.oembed
+06:39:16	Warning: 	HTML file (213382 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-textured-l-heart
+06:39:27	Warning: 	HTML file (213382 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-textured-i-heart
+06:39:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pink-textured-x-heart.oembed
+06:39:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pink-textured-w-heart.oembed
+06:39:40	Warning: 	HTML file (213382 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-textured-h-heart
+06:39:52	Warning: 	HTML file (213382 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-textured-g-heart
+06:39:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/lpink-textured-v-heart.oembed
+06:40:04	Warning: 	HTML file (213382 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-textured-f-heart
+06:40:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pink-textured-u-heart.oembed
+06:40:19	Warning: 	HTML file (213382 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-textured-e-heart
+06:40:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pink-textured-t-heart.oembed
+06:40:31	Warning: 	HTML file (214159 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-textured-d-heart
+06:40:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pink-textured-q-heart.oembed
+06:40:44	Warning: 	HTML file (214159 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-textured-b-heart
+06:40:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pink-textured-p-heart.oembed
+06:40:58	Warning: 	HTML file (213959 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-green-flower
+06:41:11	Warning: 	HTML file (213814 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-ballerina
+06:41:29	Warning: 	HTML file (213819 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-horseshoe
+06:41:41	Warning: 	HTML file (213720 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-flower
+06:41:55	Warning: 	HTML file (214014 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-red-heart-charms
+06:42:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-red-cherry.oembed
+06:42:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-heart-wings.oembed
+06:42:08	Warning: 	HTML file (213844 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-angel-wing
+06:42:20	Warning: 	HTML file (213325 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-textured-z-heart
+06:42:31	Warning: 	HTML file (213382 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-textured-y-heart
+06:42:51	Warning: 	HTML file (213382 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-textured-x-heart
+06:43:02	Warning: 	HTML file (213382 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-textured-w-heart
+06:43:20	Warning: 	HTML file (214464 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-red-mushroom
+06:43:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-mama.oembed
+06:43:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-mom-tag.oembed
+06:43:32	Warning: 	HTML file (214024 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-skateboard
+06:43:43	Warning: 	HTML file (214630 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-skinny-f-charm
+06:43:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-oval-textured-locket.oembed
+06:43:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-palm-tree-charm.oembed
+06:43:56	Warning: 	HTML file (214630 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-skinny-g-charm
+06:44:14	Warning: 	HTML file (214630 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-skinny-h-charm
+06:44:26	Warning: 	HTML file (214630 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-skinny-i-charm
+06:44:43	Warning: 	HTML file (214630 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-skinny-n-charm
+06:44:55	Warning: 	HTML file (214630 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-skinny-o-charm
+06:45:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-blue-daisy-charm.oembed
+06:45:08	Warning: 	HTML file (214630 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-skinny-q-charm
+06:45:26	Warning: 	HTML file (214630 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-skinny-r-charm
+06:45:37	Warning: 	HTML file (214630 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-skinny-u-charm
+06:45:49	Warning: 	HTML file (214630 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-skinny-v-charm
+06:46:09	Warning: 	HTML file (214630 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-skinny-w-charm
+06:46:20	Warning: 	HTML file (214630 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-skinny-x-charm
+06:46:36	Warning: 	HTML file (214630 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-skinny-y-charm
+06:46:51	Warning: 	HTML file (214630 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-skinny-z-charm
+06:46:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/golden-alphabet-r-charm.oembed
+06:47:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/golden-alphabet-s-charm.oembed
+06:47:04	Warning: 	HTML file (214584 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-small-comb-charm
+06:47:19	Warning: 	HTML file (214397 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-b-charm
+06:47:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/golden-alphabet-t-charm.oembed
+06:47:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/golden-alphabet-u-charm.oembed
+06:47:31	Warning: 	HTML file (214397 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-c-charm
+06:47:43	Warning: 	HTML file (214397 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-d-charm
+06:47:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/golden-alphabet-v-charm.oembed
+06:47:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/golden-alphabet-w-charm.oembed
+06:47:56	Warning: 	HTML file (214397 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-e-charm
+06:48:10	Warning: 	HTML file (214397 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-f-charm
+06:48:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/golden-alphabet-x-charm.oembed
+06:48:22	Warning: 	HTML file (213620 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-g-charm
+06:48:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/golden-alphabet-y-charm.oembed
+06:48:37	Warning: 	HTML file (213620 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-h-charm
+06:48:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/golden-alphabet-z-charm.oembed
+06:48:48	Warning: 	HTML file (214397 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-i-charm
+06:48:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/slider-pink-you-me.oembed
+06:49:03	Warning: 	HTML file (214418 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-j-charm
+06:49:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/slider-red-black-you-me-charm.oembed
+06:49:14	Warning: 	HTML file (214418 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-k-charm
+06:49:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/small-black-daisy-charm.oembed
+06:49:29	Warning: 	HTML file (214418 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-l-charm
+06:49:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/collections/charms.oembed?page=20
+06:49:41	Warning: 	HTML file (214418 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-m-charm
+06:49:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/november-birthstone-charme.oembed
+06:49:52	Warning: 	HTML file (214418 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-n-charm
+06:49:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/october-birthstone-charme.oembed
+06:50:03	Warning: 	HTML file (214418 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-o-charm
+06:50:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/september-birthstone-charme.oembed
+06:50:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/july-birthstone-charme.oembed
+06:50:16	Warning: 	HTML file (214418 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-p-charm
+06:50:27	Warning: 	HTML file (214418 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-q-charm
+06:50:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/may-birthstone-charm.oembed
+06:50:42	Warning: 	HTML file (214397 bytes) retransferred due to lack of cache: https://marscharmss.com/products/golden-alphabet-a-charm
+06:50:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/march-birthstone-charm.oembed
+06:50:56	Warning: 	HTML file (297991 bytes) retransferred due to lack of cache: https://marscharmss.com/collections/charms?page=22
+06:50:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/january-birthstone-charm.oembed
+06:51:08	Warning: 	HTML file (214062 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-cross-1
+06:51:20	Warning: 	HTML file (214524 bytes) retransferred due to lack of cache: https://marscharmss.com/products/gold-filled-white-popsicle
+06:51:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/red-textured-v-heart.oembed
+06:51:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/red-textured-u-heart.oembed
+06:51:32	Warning: 	HTML file (213884 bytes) retransferred due to lack of cache: https://marscharmss.com/products/red-white-umbrella
+06:51:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-red-mushroom.oembed
+06:51:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-skateboard.oembed
+06:51:44	Warning: 	HTML file (303987 bytes) retransferred due to lack of cache: https://marscharmss.com/collections/all?page=17&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InRpdGxlIiwic3YiOiJHb2xkIEZpbGxlZCBUYXhpIiwiZCI6ImIiLCJ1aWQiOjk2NTI4NTI3ODU0NjksImwiOjE2LCJvIjowLCJyIjoiQ1AifQ.okDlLSCd0mKNYyychkZq0-iFqqUc1aO1PzP-G_7Jnjg
+06:51:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-skinny-r-charm.oembed
+06:51:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-skinny-u-charm.oembed
+06:51:57	Warning: 	HTML file (303626 bytes) retransferred due to lack of cache: https://marscharmss.com/collections/all?page=18&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InRpdGxlIiwic3YiOiJHb2xkIEZpbGxlZCBUZXh0dXJlZCDigJxY4oCdIEhlYXJ0IiwiZCI6ImIiLCJ1aWQiOjk1NTM1MDUxOTAyMDUsImwiOjE2LCJvIjowLCJyIjoiQ1AifQ.WS323YmhX-b1fPJDiarIZe16Mm5R4WbFyFSY8O-Y3SY
+06:52:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/golden-alphabet-b-charm.oembed
+06:52:10	Warning: 	HTML file (209374 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-loop-red-heart-charm
+06:52:22	Warning: 	HTML file (213774 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-number-0
+06:52:33	Warning: 	HTML file (213784 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-number-1
+06:52:47	Warning: 	HTML file (213784 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-number-5
+06:52:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/golden-alphabet-a-charm.oembed
+06:52:59	Warning: 	HTML file (213784 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-number-6
+06:53:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/collections/charms.oembed?page=22
+06:53:16	Warning: 	HTML file (213784 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-number-8
+06:53:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-cross-1.oembed
+06:53:28	Warning: 	HTML file (213784 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-number-9
+06:53:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/gold-filled-white-popsicle.oembed
+06:53:40	Warning: 	HTML file (302305 bytes) retransferred due to lack of cache: https://marscharmss.com/collections/all?page=31&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InRpdGxlIiwic3YiOiJTaWx2ZXIgaGVhcnQgRXllIiwiZCI6ImIiLCJ1aWQiOjg4ODExMzYzMDQ0NDUsImwiOjE2LCJvIjowLCJyIjoiQ1AifQ.z60MMmxFjursuzbpRIeLFiq8iAJ0YT9sbMIk8A7P98w
+06:53:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/collections/charms.oembed?page=23
+06:53:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/red-white-umbrella.oembed
+06:53:53	Warning: 	HTML file (213835 bytes) retransferred due to lack of cache: https://marscharmss.com/products/pink-cherry-charm
+06:54:07	Warning: 	HTML file (213614 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-eye
+06:54:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-loop-red-heart-charm.oembed
+06:54:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-number-0.oembed
+06:54:17	Warning: 	HTML file (213999 bytes) retransferred due to lack of cache: https://marscharmss.com/products/match-stick
+06:54:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-number-1.oembed
+06:54:38	Warning: 	HTML file (219369 bytes) retransferred due to lack of cache: https://marscharmss.com/products/cable-chain-bracelet
+06:54:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-number-5.oembed
+06:54:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-number-6.oembed
+06:54:49	Warning: 	HTML file (214448 bytes) retransferred due to lack of cache: https://marscharmss.com/products/silver-extender
+06:55:00	Warning: 	HTML file (302995 bytes) retransferred due to lack of cache: https://marscharmss.com/collections/all?page=21&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InRpdGxlIiwic3YiOiJKdWx5IEJpcnRoc3RvbmUgQ2hhcm0iLCJkIjoiYiIsInVpZCI6OTEzNzc4MDEzMDEwOSwibCI6MTYsIm8iOjAsInIiOiJDUCJ9.OHPxxr3iuKdrPqJR05tKKEad8-nQ2ajklF0KBCYBf8A
+06:55:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/pink-cherry-charm.oembed
+06:55:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/silver-extender.oembed
+06:55:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://marscharmss.com/products/mars-charms-sweatshirt.oembed
+06:55:13	Warning: 	HTML file (222286 bytes) retransferred due to lack of cache: https://marscharmss.com/products/mars-charms-sweatshirt
+06:55:24	Warning: 	HTML file (302009 bytes) retransferred due to lack of cache: https://marscharmss.com/collections/all?page=28&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InRpdGxlIiwic3YiOiJSZWQgVGV4dHVyZWQg4oCcRuKAnSBIZWFydCIsImQiOiJiIiwidWlkIjo5MDM2MDI5NTU5MTAxLCJsIjoxNiwibyI6MCwiciI6IkNQIn0.kxp9Rz5AWk22mr1JsPw6D5rPEiT0g1aawdme9DbeX6o
+06:55:38	Warning: 	HTML file (303910 bytes) retransferred due to lack of cache: https://marscharmss.com/collections/all?page=24&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InRpdGxlIiwic3YiOiJNaW5pIEdvbGQgRmlsbGVkIEJ1YmJsZSBMZXR0ZXIg4oCcUOKAnSIsImQiOiJiIiwidWlkIjo5MTczNDEwODczNjYxLCJsIjoxNiwibyI6MCwiciI6IkNQIn0.rAGDxxEFnTuKXqyPzOewrYbhLg9JypONwpyOV_dT0iU
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 hours 58 minutes 1 seconds : 4967 links scanned, 7918 files written (792344704 bytes overall), 6202 files updated [477611025 bytes received at 26710 bytes/sec], 227301680 bytes transferred using HTTP compression in 1080 files, ratio 16%, 4.3 requests per connection
+(21 errors, 1261 warnings, 0 messages)

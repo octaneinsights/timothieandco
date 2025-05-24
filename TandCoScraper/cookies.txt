@@ -1,0 +1,14 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+marscharmss.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22USUT%22%2C%22reg%22%3A%22%22%2C%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%2C%22consent_id%22%3A%22DF4CBC87-3cca-4E1B-bf83-f4eb796190b0%22%7D
+marscharmss.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+.shop.app	TRUE	/	FALSE	1999999999	_shopify_s	6c2f8e6f8b13c5a474ecb9d8b36c8b43b4e63692204159ee
+.shop.app	TRUE	/	FALSE	1999999999	_shopify_y	32047783-a006-4aba-a6c4-d0d5cf0094af
+shop.app	TRUE	/	FALSE	1999999999	SameSite	Lax
+marscharmss.com	TRUE	/	FALSE	1999999999	keep_alive	8ef988cb-f79a-4d6c-9539-f751089a1a19
+marscharmss.com	TRUE	/	FALSE	1999999999	localization	US
+marscharmss.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+marscharmss.com	TRUE	/	FALSE	1999999999	_shopify_y	A45529C3-dde7-4CBE-bc15-05770605dcad
+marscharmss.com	TRUE	/	FALSE	1999999999	_shopify_s	A744CFFE-0f2f-47CD-a38b-4068ddcc4331
+marscharmss.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
